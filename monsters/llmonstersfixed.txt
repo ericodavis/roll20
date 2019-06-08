@@ -1,0 +1,651 @@
+Aerial Servant 
+#Enc. 1 (1),   AL N,   MV 240` (80`),   AC 3,   HD 1,   #AT 1,   THAC0 19,   DG 8d4,    SV F16,   ML 10,   THC None,   XP 3,000,   BOOK AEC,   PAGE 105 
+Ankheg 
+#Enc. 1d6 (1d6),   AL N,   MV 120` (40`),   AC 3,   HD 1d6+2,   #AT 1,   THAC0 17/16/15/14/13/12,   DG 3d6, +1d4,    SV As HD,   ML 9,   THC XIX,   XP 80-2,800,   BOOK AEC,   PAGE 105 
+Ant, Giant 
+#Enc. 2d4 (4d6),   AL N,   MV 180` (60`),   AC 3,   HD 4,   #AT 1,   THAC0 16,   DG 2d6,    SV F2,   ML 7,   THC VI,   XP 80,   BOOK LL,   PAGE 63 
+Ape, Albino 
+#Enc. 1d6 (2d4),   AL N,   MV 120` (40`),   AC 6,   HD 4,   #AT 2 (claw, claw),   THAC0 16,   DG 1d4/1d4,    SV F2,   ML 7,   THC None,   XP 80,   BOOK LL,   PAGE 63 
+Ape, Chimpanzee 
+#Enc. 1d4 (3d4),   AL N,   MV 120` (40`),   AC 6,   HD 3,   #AT 3 (2 claws, 1 bite),   THAC0 17,   DG 1d3/1d3/1d6,    SV F3,   ML 9,   THC None,   XP 50,   BOOK AEC,   PAGE 105 
+Ape, Gorilla 
+#Enc. 1d4 (3d4),   AL N,   MV 120` (40`),   AC 6,   HD 4+1,   #AT 3 (2 claws, 1 bite),   THAC0 15,   DG 1d3/1d3/1d6,    SV F4,   ML 8,   THC None,   XP 80,   BOOK AEC,   PAGE 105 
+Ape, Man-Eating 
+#Enc. 2d4 (3d4),   AL N,   MV 120` (40`),   AC 6,   HD 5,   #AT 3 (2 claws, 1 bite),   THAC0 15,   DG 1d4/1d4/1d8,    SV F5,   ML 10,   THC XIX,   XP 350,   BOOK AEC,   PAGE 106 
+Axe Beak 
+#Enc. 1d6 (2d4),   AL N,   MV 180` (60`),   AC 6,   HD 3,   #AT 3 (2 claws, 1 bite),   THAC0 17,   DG 1d3/1d3/2d4,    SV F3,   ML 8,   THC None,   XP 50,   BOOK AEC,   PAGE 106 
+Baboon 
+#Enc. 2d4 (1d4x10),   AL N,   MV 120` (40`),   AC 7,   HD 1+1,   #AT 1 (bite),   THAC0 18,   DG 1d4,    SV F1,   ML 7,   THC None,   XP 15,   BOOK AEC,   PAGE 106 
+Baboon, Higher 
+#Enc. 2d6 (5d6),   AL N,   MV 120` (40`),   AC 6,   HD 2,   #AT 2 (bite, club),   THAC0 18,   DG 1d3/1d6,    SV F2,   ML 8,   THC VI,   XP 20,   BOOK LL,   PAGE 63 
+Badger 
+#Enc. 1d2 (1d4+1),   AL N,   MV 60` (20`),   AC 4,   HD 1+2,   #AT 3 (2 claws, 1 bite),   THAC0 18,   DG 1d2/1d2/1d3,    SV F1,   ML 8,   THC None,   XP 15,   BOOK AEC,   PAGE 106 
+Badger, Giant 
+#Enc. 1d2 (1d4+1),   AL N,   MV 60` (20`),   AC 4,   HD 3,   #AT 3 (2 claws, 1 bite),   THAC0 17,   DG 1d3/1d3/1d6,    SV F3,   ML 8,   THC None,   XP 50,   BOOK AEC,   PAGE 106 
+Basilisk 
+#Enc. 1d6 (1d6),   AL N,   MV 60` (20`),   AC 4,   HD 6+1,   #AT 2 (bite, gaze),   THAC0 13,   DG 1d10/petrify),    SV F6,   ML 9,   THC XVII,   XP 570,   BOOK LL,   PAGE 63 
+Bat 
+#Enc. 1d00 (1d00),   AL N,   MV 9` (3`) Fly 120` (40`),   AC 6,   HD 1 hp,   #AT confuse,   THAC0 19,   DG None,    SV 0 Human,   ML 6,   THC None,   XP 6,   BOOK LL,   PAGE 64 
+Bat, Giant 
+#Enc. 1d10 (1d10),   AL N,   MV 30` (10`) Fly 180` (60`),   AC 6,   HD 2,   #AT 1 (bite),   THAC0 18,   DG 1d4,    SV F1,   ML 8,   THC None,   XP 20,   BOOK LL,   PAGE 64 
+Bear, Black 
+#Enc. 1d4 (1d4),   AL N,   MV 120` (40`),   AC 6,   HD 4,   #AT 3 (2 claws, bite),   THAC0 16,   DG 1d3/1d3/1d6,    SV F2,   ML 7,   THC VI,   XP 80,   BOOK LL,   PAGE 64 
+Bear, Cave 
+#Enc. 1 (1d2),   AL N,   MV 120` (40`),   AC 5,   HD 7,   #AT 3 (2 claws, bite),   THAC0 13,   DG 1d3/1d3/1d6,    SV F3,   ML 9,   THC VII,   XP 440,   BOOK LL,   PAGE 64 
+Bear, Grizzly  
+#Enc. 1 (1d4),   AL N,   MV 120` (40`),   AC 6,   HD 5,   #AT 3 (2 claws, bite),   THAC0 15,   DG 1d3/1d3/1d6,    SV F2,   ML 8,   THC VI,   XP 200,   BOOK LL,   PAGE 64 
+Bear, Polar 
+#Enc. 1 (1d2),   AL N,   MV 120` (40`),   AC 6,   HD 6,   #AT 3 (2 claws, bite),   THAC0 14,   DG 1d3/1d3/1d6,    SV F3,   ML 8,   THC VI,   XP 320,   BOOK LL,   PAGE 64 
+Bee, Giant Killer 
+#Enc. 1d6 (5d6),   AL N,   MV 150` (50`),   AC 7,   HD 1d4 hp,   #AT 1 (sting),   THAC0 19,   DG 1d3 + poison,    SV F1,   ML 9,   THC None,   XP 7,   BOOK LL,   PAGE 65 
+Beetle, Giant Boring 
+#Enc. 3d6 (3d6),   AL N,   MV 60` (20`),   AC 3,   HD 5,   #AT 1 (bite),   THAC0 15,   DG 5d4,    SV F5,   ML 7,   THC VIII, IX, XXI,   XP 200,   BOOK AEC,   PAGE 107 
+Beetle, Giant Carnivorous 
+#Enc. 1d6 (2d4),   AL N,   MV 150` (50`),   AC 3,   HD 3+1,   #AT 1 (bite),   THAC0 16,   DG 2d6,    SV F1,   ML 9,   THC VI,   XP 65,   BOOK LL,   PAGE 65 
+Beetle, Giant Fire 
+#Enc. 1d8 (2d6),   AL N,   MV 120` (40`),   AC 4,   HD 1+2,   #AT 1 (bite),   THAC0 18,   DG 2d4,    SV F1,   ML 7,   THC None,   XP 15,   BOOK LL,   PAGE 65 
+Beetle, Giant Rhinoceros 
+#Enc. 1d6 (1d6),   AL N,   MV 60` (20`),   AC 2,   HD 12,   #AT 2 (bite, horn),   THAC0 10,   DG 3d6/2d8,    SV F12,   ML 8,   THC None,   XP 1,200,   BOOK AEC,   PAGE 107 
+Beetle, Giant Spitting
+#Enc. 1d8 (2d6),   AL N,   MV 120` (40`),   AC 4,   HD 2,   #AT 1 (bite),   THAC0 18,   DG 1d6 + toxic spray,    SV F1,   ML 8,   THC None,   XP 38,   BOOK LL,   PAGE 65 
+Beetle, Giant Stag 
+#Enc. 2d6 (2d6),   AL N,   MV 60` (20`),   AC 3,   HD 7,   #AT 3 (bite, 2 horns),   THAC0 13,   DG 4d4/1d10/1d10,    SV F7,   ML 8,   THC None,   XP 440,   BOOK AEC,   PAGE 107 
+Black Pudding 
+#Enc. 1 (0),   AL N,   MV 60` (20`),   AC 6,   HD 10,   #AT 1,   THAC0 11,   DG 3d8,    SV F5,   ML 12,   THC None,   XP 3,100,   BOOK LL,   PAGE 65 
+Blink Dog 
+#Enc. 1d6 (1d6),   AL L,   MV 120` (40`),   AC 5,   HD 4,   #AT 1 (bite),   THAC0 16,   DG 1d6,    SV F4,   ML 6,   THC XX,   XP 135,   BOOK LL,   PAGE 66 
+Boar 
+#Enc. 1d6 (1d6),   AL N,   MV 150` (50`),   AC 7,   HD 3,   #AT 1 (tusk),   THAC0 17,   DG 2d4,    SV F2,   ML 9,   THC None,   XP 50,   BOOK LL,   PAGE 66 
+Boar, Giant 
+#Enc. 1d4 (1d4+1),   AL N,   MV 120` (40`),   AC 6,   HD 5,   #AT 1 (tusk),   THAC0 15,   DG 3d4,    SV F5,   ML 9,   THC None,   XP 200,   BOOK LL,   PAGE 66 
+Boar, Warthog 
+#Enc. 1d6 (1d6),   AL N,   MV 120` (40`),   AC 7,   HD 3+3,   #AT 2,   THAC0 16,   DG 2d4/2d4,    SV F3,   ML 9,   THC None,   XP 65,   BOOK AEC,   PAGE 107 
+Brownie 
+#Enc. 4d4 (4d4),   AL LG,   MV 120` (40`),   AC 3,   HD 1d4 hp,   #AT 1 (weapon),   THAC0 19,   DG 1d3,    SV M1,   ML 7,   THC X, XI, XIII,   XP 12,   BOOK AEC,   PAGE 107 
+Bugbear 
+#Enc. 2d4 (5d4),   AL C,   MV 90` (30`),   AC 5,   HD 3+1,   #AT 1 (weapon),   THAC0 16,   DG 2d4 or weapon,    SV F3,   ML 9,   THC XXI,   XP 100,   BOOK LL,   PAGE 66 
+Bulette 
+#Enc. 1d2 (1d2),   AL N,   MV 150` (50`),   AC -2 (6),   HD 9,   #AT 3 (2 claws, 1 bite) or 4 (4 claws),   THAC0 12,   DG 4d12/2d6/3d6 or 3d6/3d6/3d6/3d6,    SV F9,   ML 9,   THC None,   XP 1,000,   BOOK AEC,   PAGE 107 
+Camel 
+#Enc. 0 (2d4),   AL N,   MV 150` (50`),   AC 7,   HD 2,   #AT 2 (bite, hoof),   THAC0 18,   DG 1/1d4,    SV F1,   ML 7,   THC None,   XP 20,   BOOK LL,   PAGE 66 
+Carcass Scavenger 
+#Enc. 1d3 (1d3),   AL N,   MV 120` (40`),   AC 7,   HD 3+1,   #AT 8 (stingers),   THAC0 16,   DG paralysis,    SV F2,   ML 9,   THC XXI,   XP 135,   BOOK LL,   PAGE 67 
+Cat, Lion 
+#Enc. 1d4 (1d8),   AL N,   MV 150` (50`),   AC 6,   HD 5,   #AT 3 (2 claws, bite),   THAC0 15,   DG 1d4+1/1d4+1/1d10,    SV F3,   ML 9,   THC VI,   XP 200,   BOOK LL,   PAGE 67 
+Cat, Mountain Lion 
+#Enc. 1d4 (1d4),   AL N,   MV 150` (50`),   AC 6,   HD 3+2,   #AT 3 (2 claws, bite),   THAC0 16,   DG 1d3/1d3/1d6,    SV F2,   ML 8,   THC VI,   XP 65,   BOOK LL,   PAGE 67 
+Cat, Panther 
+#Enc. 1d2 (1d6),   AL N,   MV 210` (70`),   AC 4,   HD 4,   #AT 3 (2 claws, bite),   THAC0 16,   DG 1d4/1d4/1d8,    SV F2,   ML 8,   THC VI,   XP 80,   BOOK LL,   PAGE 67 
+Cat, Sabre-tooth Tiger 
+#Enc. 1d4 (1d4),   AL N,   MV 150` (50`),   AC 6,   HD 8,   #AT 3 (2 claws, bite),   THAC0 12,   DG 1d8/1d8/2d8,    SV F4,   ML 10,   THC VII,   XP 560,   BOOK LL,   PAGE 67 
+Cat, Tiger 
+#Enc. 1 (1d3),   AL N,   MV 150` (50`),   AC 6,   HD 6,   #AT 3 (2 claws, bite),   THAC0 14,   DG 1d6/1d6/2d6,    SV F3,   ML 9,   THC VI,   XP 570,   BOOK LL,   PAGE 67 
+Centaur 
+#Enc. 0 (2d10),   AL N,   MV 180` (60`),   AC 5,   HD 4,   #AT 3 (2 hooves, weapon),   THAC0 16,   DG 1d6/1d6/weapon,    SV F4,   ML 8,   THC XXII,   XP 80,   BOOK LL,   PAGE 67 
+Centipede, Giant 
+#Enc. 2d4 (1d8),   AL N,   MV 60` (20`),   AC 9,   HD 1d4 hp,   #AT 1 (bite),   THAC0 19,   DG poison,    SV 0 Human,   ML 7,   THC None,   XP 6,   BOOK LL,   PAGE 68 
+Chimera 
+#Enc. 1d2 (1d4),   AL C,   MV 120` (40`) Fly 180` (60`),   AC 4,   HD 9,   #AT 5 (2 claws, 3 heads, breath),   THAC0 12,   DG 1d3/1d3/2d4/2d4/3d4/3d6 fire breath,    SV F9,   ML 9,   THC XVII,   XP 1,700,   BOOK LL,   PAGE 68 
+Cockatrice 
+#Enc. 1d4 (1d8),   AL N,   MV 90` (30`) Fly 180` (60`),   AC 6,   HD 5,   #AT 2 (beak, petrify),   THAC0 15,   DG 1d6/petrify,    SV F5,   ML 7,   THC XIX,   XP 350,   BOOK LL,   PAGE 68 
+Couatl 
+#Enc. 1d4 (1d4),   AL LG,   MV 60` (20`) Fly 180` (60`),   AC 5,   HD 9,   #AT 2 (bite, constrict),   THAC0 12,   DG 1d3/2d4,    SV M9,   ML 8,   THC XXI,   XP 3,100,   BOOK AEC,   PAGE 108 
+Crab, Giant 
+#Enc. 1d2 (1d6),   AL N,   MV 60` (20`),   AC 2,   HD 3,   #AT 2 (pinchers),   THAC0 17,   DG 2d6/2d6,    SV F2,   ML 7,   THC None,   XP 50,   BOOK LL,   PAGE 68 
+Crayfish, Giant 
+#Enc. 1d4 (1d4),   AL N,   MV 60` (`20) Swim 120` (40`),   AC 4,   HD 4+4,   #AT 2 (claws),   THAC0 15,   DG 2d6/2d6,    SV F4,   ML 9,   THC None,   XP 140,   BOOK AEC,   PAGE 108 
+Crocodile
+#Enc. 0 (1d8),   AL N,   MV 90` (30`) Swim 90` (30`),   AC 5,   HD 2,   #AT 1,   THAC0 18,   DG 1d8,    SV F1,   ML 7,   THC None,   XP 20,   BOOK LL,   PAGE 68 
+Crocodile, Giant 
+#Enc. 0 (1d3),   AL N,   MV 90` (30`) Swim 90` (30`),   AC 1,   HD 15,   #AT 1,   THAC0 9,   DG 3d8,    SV F8,   ML 9,   THC None,   XP 1,500,   BOOK LL,   PAGE 68 
+Crocodile, Large 
+#Enc. 0 (1d4),   AL N,   MV 90` (30`) Swim 90` (30`),   AC 3,   HD 6,   #AT 1,   THAC0 14,   DG 2d8,    SV F3,   ML 7,   THC None,   XP 320,   BOOK LL,   PAGE 68 
+Cyclops 
+#Enc. 1 (1d4),   AL C,   MV 90` (30`),   AC 5,   HD 13,   #AT 1,   THAC0 10,   DG 3d10,    SV F13,   ML 9,   THC XVII + 5,000 gp,   XP 2,400,   BOOK LL,   PAGE 69 
+Demon Boar 
+#Enc. 1d4 (1d4),   AL C,   MV 120` (40`) Boar 180` (60`),   AC 3 (9),   HD 9,   #AT 1 (gore or weapon),   THAC0 12,   DG 2d6/weapon,    SV F9,   ML 10,   THC XX,   XP 3,800,   BOOK LL,   PAGE 69 
+Demon, Astarot (Demon Lord) 
+#Enc. Unique,   AL CE,   MV 150` (50`),   AC -7,   HD 184 hp (23 HD),   #AT 3 (2 tentacles, tail),   THAC0 5,   DG 1d6/1d6/2d6,    SV F23,   ML 12,   THC VIII, IX, XXII,   XP 17,000,   BOOK AEC,   PAGE 109 
+Demon, Babau (Standard Order Demon) 
+#Enc. 1d3 (1d6),   AL CE,   MV 150` (50`),   AC -3,   HD 7+10,   #AT 3 (2 claws, horn) or 1 (weapon),   THAC0 12,   DG 1d4+1/1d4+1/2d4 or As weapon +4,    SV F7,   ML 10,   THC XXI,   XP 1,700,   BOOK AEC,   PAGE 109 
+Demon, Balor (Standard Order Demon) 
+#Enc. 1d3 (1d6),   AL CE,   MV 60` (20`) Fly 150` (50`),   AC -2,   HD 8+7,   #AT 1 (sword or whip),   THAC0 12,   DG 1d8+1 or 1d6 and 3d6 fire damage,    SV F8,   ML 10,   THC XXII,   XP 1,820,   BOOK AEC,   PAGE 110 
+Demon, Glabrezu (Higher Order Demon) 
+#Enc. 1d3 (1d6),   AL CE,   MV 90` (30`),   AC -4,   HD 10,   #AT 5 (2 pinchers, 2 claws, bite),   THAC0 11,   DG 2d6/2d6/1d3/1d3/1d4+1,    SV F10,   ML 9,   THC XXII,   XP 3,100,   BOOK AEC,   PAGE 110 
+Demon, Hezrou (Higher Order Demon) 
+#Enc. 1d3 (1d6),   AL CE,   MV 120` (40`),   AC -2,   HD 9,   #AT 3 (2 claws, 1 bite),   THAC0 12,   DG 1d3/1d3/4d4,    SV F9,   ML 10,   THC XIV,   XP 3,100,   BOOK AEC,   PAGE 111 
+Demon, Juiblex (Demon Lord) 
+#Enc. 1 (Unique),   AL CE,   MV 30` (10`),   AC -7,   HD 100 hp (21 HD),   #AT 1,   THAC0 5,   DG 4d10,    SV F21,   ML 10,   THC Xx2, XIIx2,   XP 7,000,   BOOK AEC,   PAGE 111 
+Demon, Marilith (Standard Order Demon) 
+#Enc. 1d3 (1d6),   AL CE,   MV 120` (40`),   AC -6,   HD 7+6,   #AT 7 (6 weapons, constrict),   THAC0 12,   DG As weapon/2d4,    SV F7,   ML 9,   THC XVII,   XP 1,700,   BOOK AEC,   PAGE 112 
+Demon, Nalfeshnee (Higher Order Demon) 
+#Enc. 1d3 (1d6),   AL CE,   MV 90` (30`) Fly 120` (40`),   AC -1,   HD 11,   #AT 3 (2 claws, 1 bite),   THAC0 11,   DG 1d4/1d4/2d4,    SV F11,   ML 10,   THC XVIII,   XP 4,400,   BOOK AEC,   PAGE 112 
+Demon, Orcus (Demon Lord) 
+#Enc. 1 (Unique),   AL CE,   MV 90` (30`) Fly 180` (60`),   AC -6,   HD 125 hp (22 HD),   #AT 2 (fists and tail),   THAC0 5,   DG 2d6+1/2d4 + poison,    SV F22,   ML 10,   THC VIII, IX, XII,   XP 13,000,   BOOK AEC,   PAGE 113 
+Demon, Quasit (Lower Order Demon) 
+#Enc. 1 (0),   AL CE,   MV 150` (50`),   AC 2,   HD 3,   #AT 3 (2 claws, 1 bite),   THAC0 17,   DG 1d2/1d2/1d4,    SV F3,   ML 10,   THC XIx2,   XP 95,   BOOK AEC,   PAGE 113 
+Demon, Succubus/Incubus (Standard Order Demon) 
+#Enc. 1 (1),   AL CE,   MV 120` (40`) Fly 180` (60`),   AC 0,   HD 6,   #AT 2 (claws),   THAC0 14,   DG 1d3/1d3,    SV F6,   ML 7,   THC XI, XIV, XV,   XP 1,320,   BOOK AEC,   PAGE 114 
+Demon, Vrock (Standard Order Demon) 
+#Enc. 1d3 (1d6),   AL CE,   MV 120` (40`) Fly 180` (60`),   AC 0,   HD 8,   #AT 5 (2 claws, 2 rear claws, beak),   THAC0 13,   DG 1d4/1d4/1d8/1d8/1d6,    SV F8,   ML 11,   THC XXI,   XP 2,060,   BOOK AEC,   PAGE 114 
+Devil, Amon (Arch-devil) 
+#Enc. 1 (Unique),   AL LE,   MV 180` (60`),   AC -2,   HD 132 hp (22 HD),   #AT 1 (weapon or bite),   THAC0 5,   DG AS weapon +4 or 3d4,    SV F22,   ML 10,   THC XII, XVI,   XP 13,000,   BOOK AEC,   PAGE 115 
+Devil, Bael (Arch-devil) 
+#Enc. 1 (Unique),   AL LE,   MV 120` (40`),   AC -3,   HD 110 hp (21 HD),   #AT 2,   THAC0 5,   DG As weapon +6,    SV F21,   ML 10,   THC XII, XVI,   XP 11,000,   BOOK AEC,   PAGE 116 
+Devil, Barbed (Lesser devil) 
+#Enc. 1d2 (3d4),   AL LE,   MV 120` (40`),   AC 0,   HD 8,   #AT 3 (2 claws, tail),   THAC0 12,   DG 1d3/1d3/4d4,    SV F8,   ML 10,   THC None,   XP 2,560,   BOOK AEC,   PAGE 116 
+Devil, Bone (Lesser devil) 
+#Enc. 1d2 (2d4),   AL LE,   MV 150` (50`),   AC -1,   HD 9,   #AT 1 (hook or tail),   THAC0 12,   DG 3d4 or 2d4 + STR drain,    SV F9,   ML 10,   THC None,   XP 3,100,   BOOK AEC,   PAGE 117 
+Devil, Erinyes (Lesser devil) 
+#Enc. 1d3 (14d4),   AL LE,   MV 60` (20`) Fly 210` (70`),   AC 2,   HD 6+5,   #AT 1,   THAC0 13,   DG 2d4,    SV F6,   ML 10,   THC X,   XP 1,280,   BOOK AEC,   PAGE 117 
+Devil, Geryon (Arch-devil) 
+#Enc. 1 (Unique),   AL LE,   MV 60` (20`) Fly 180` (60`),   AC -3,   HD 135 hp (23HD),   #AT 3 (2 claws, sting),   THAC0 5,   DG 3d6/3d6/2d4,    SV F23,   ML 10,   THC X, XV,   XP 13,000,   BOOK AEC,   PAGE 118 
+Devil, Horned (Greater devil) 
+#Enc. 1d2 (1d4+1),   AL LE,   MV 90` (30`) Fly 180` (60`),   AC -5,   HD 5+5,   #AT 4 (2 claws, bite, tail) or 1 (weapon),   THAC0 14,   DG 1d4/1d4/1d4+1/1d3 or 2d6,    SV F5,   ML 9,   THC XIV,   XP 1,260,   BOOK 
+AEC,   PAGE 118 
+Devil, Ice (Greater devil)
+#Enc. 1 (1d4),   AL LE,   MV 60` (20`),   AC -4,   HD 11,   #AT 4 (2 claws, mandibles, tail) or 1 (weapon),   THAC0 11,   DG 1d4/1d4/1d4/3d4 or 2d6 + paralyzation,    SV F11,   ML 11,   THC X, XI,   XP 4,800,   BOOK 
+AEC,   PAGE 119 
+Devil, Imp (Lesser devil) 
+#Enc. 1 (1),   AL LE,   MV 60` (20`) Fly 180` (60`),   AC 2,   HD 2+2,   #AT 1 (tail),   THAC0 17,   DG 1d4,    SV F2,   ML 8,   THC XIII,   XP 83,   BOOK AEC,   PAGE 119 
+Devil, Lemure 
+#Enc. 0 (5d6),   AL LE,   MV 30` (10`),   AC 7,   HD 3,   #AT 1 (claws),   THAC0 17,   DG 1d4,    SV F3,   ML 6,   THC None,   XP 95,   BOOK AEC,   PAGE 120 
+Devil, Pit Fiend (Greater devil) 
+#Enc. 1 (1d3),   AL LE,   MV 60` (20`) Fly 150` (50`),   AC -3,   HD 13,   #AT 2 (weapons) or 1 (tail),   THAC0 10,   DG 1d6+6/1d6+6 or 2d4,    SV F13,   ML 10,   THC II, X,   XP 5,100,   BOOK AEC,   PAGE 120 
+Dinosaur, Pteranodon 
+#Enc. 0 (1d4),   AL N,   MV Fly 240` (120`),   AC 6,   HD 5,   #AT 1 (bite),   THAC0 15,   DG 1d12,    SV F3,   ML 8,   THC VII,   XP 350,   BOOK LL,   PAGE 92 
+Dinosaur, Pterodactyl 
+#Enc. 0 (2d4),   AL N,   MV Fly 180` (60`),   AC 7,   HD 7,   #AT 1 (bite),   THAC0 13,   DG 1d3,    SV F1,   ML 7,   THC None,   XP 13,   BOOK LL,   PAGE 92 
+Dinosaur, Stegosaurus 
+#Enc. 0 (1d4),   AL N,   MV 60` (20`),   AC 3,   HD 11,   #AT 1 (tail or trample),   THAC0 11,   DG 2d8 or 2d6,    SV F6,   ML 7,   THC None,   XP 1,200,   BOOK LL,   PAGE 98 
+Dinosaur, Titanothere 
+#Enc. 0 (1d6),   AL N,   MV 120` (40`),   AC 5,   HD 12,   #AT 1 (butt or trample),   THAC0 10,   DG 2d6 or 2d8,    SV F6,   ML 7,   THC None,   XP 2,000,   BOOK LL,   PAGE 99 
+Dinosaur, Triceratops 
+#Enc. 0 (1d4),   AL N,   MV 90` (30`),   AC 2,   HD 11,   #AT 1 (gore or trample),   THAC0 11,   DG 3d6,    SV F6,   ML 8,   THC None,   XP 1,200,   BOOK LL,   PAGE 99 
+Dinosaur, Tyrannosaurus Rex 
+#Enc. 0 (1),   AL N,   MV 120` (40`),   AC 3,   HD 20,   #AT 1 (bite),   THAC0 6,   DG 6d6,    SV F10,   ML 11,   THC VII x 3,   XP 2,250,   BOOK LL,   PAGE 100 
+Djinni 
+#Enc. 1 (1),   AL N,   MV 90` (30`) Fly 240` (80`),   AC 5,   HD 7+1,   #AT 1 (fist, whirlwind),   THAC0 12,   DG 2d8/2d6,    SV F14,   ML 12,   THC None,   XP 1,700,   BOOK LL,   PAGE 69 
+Dog, War 
+#Enc. 0 (0),   AL N,   MV 120` (40`),   AC 6,   HD 2+2,   #AT 1,   THAC0 17,   DG 2d4,    SV F2,   ML 11,   THC None,   XP 35,   BOOK AEC,   PAGE 121 
+Dog, Wild 
+#Enc. 4d4 (4d4),   AL N,   MV 150` (50`),   AC 7,   HD 1+1,   #AT 1,   THAC0 18,   DG 1d4,    SV F1,   ML 7,   THC None,   XP 15,   BOOK AEC,   PAGE 121 
+Doppelganger 
+#Enc. 1d6 (1d6),   AL C,   MV 90` (30`),   AC 5,   HD 4,   #AT 1,   THAC0 16,   DG 1d12,    SV F10,   ML 10,   THC XVIII,   XP 190,   BOOK LL,   PAGE 70 
+Dragon Turtle 
+#Enc. 0 (1),   AL C,   MV 30` (10`) Swim 90` (30`),   AC -2,   HD 30,   #AT 3 (2 claws, bite),   THAC0 5,   DG 1d8/1d8/1d6x10,    SV F15,   ML 10,   THC XV,   XP 9,500,   BOOK LL,   PAGE 72 
+Dragon, Black 
+#Enc. 1d4 (1d4),   AL C,   MV 90` (30`) Fly 240` (80`),   AC 2,   HD 7,   #AT 3 or 1 (2 claws, bite or breath),   THAC0 13,   DG 1d4+1/1d4+1/2d10,    SV F7,   ML 8,   THC XV,   XP 1,490,   BOOK LL,   PAGE 70 
+Dragon, Blue 
+#Enc. 1d4 (1d4),   AL N,   MV 90` (30`) Fly 240` (80`),   AC 0,   HD 9,   #AT 3 or 1 (2 claws, bite or breath),   THAC0 12,   DG 1d6+1/1d6+1/3d10,    SV F9,   ML 9,   THC XV,   XP 3,100,   BOOK LL,   PAGE 70 
+Dragon, Brass 
+#Enc. 1d4 (1d4),   AL CG,   MV 120` (40`) Fly 240` (80`),   AC 2,   HD 7,   #AT 3 (2 claws, bite) or 1 (breathe),   THAC0 13,   DG 1d4/1d4/4d4 or Breathe,    SV F7,   ML 9,   THC XV,   XP 1,490,   BOOK AEC,   PAGE 121 
+Dragon, Bronze 
+#Enc. 1d4 (1d4),   AL LG,   MV 90` (30`) Fly 240` (80`),   AC 0,   HD 9,   #AT 3 (2 claws, bite) or 1 (breathe),   THAC0 12,   DG 1d6/1d6/4d6 or Breathe,    SV F9,   ML 9,   THC XV,   XP 3,100,   BOOK AEC,   PAGE 121 
+Dragon, Chromatic 
+#Enc. 1 (1),   AL CE,   MV 60` (20`) Fly 180` (60`),   AC 0,   HD 16 hp per head, 8 HD for body (18 HD),   #AT 6 (5 bites, tail),   THAC0 7,   DG As head/1d6 + poison,    SV F18,   ML 10,   THC XVx4,   XP 5,250,   BOOK 
+AEC,   PAGE 121 
+Dragon, Copper 
+#Enc. 1d4 (1d4),   AL CG,   MV 90` (30`) Fly 240` (80`),   AC 1,   HD 8,   #AT 3 (2 claws, bite) or 1 (breathe),   THAC0 12,   DG 1d4/1d4/5d4 or Breathe,    SV F8,   ML 9,   THC XV,   XP 2,060,   BOOK AEC,   PAGE 121 
+Dragon, Gold 
+#Enc. 1d4 (1d4),   AL L,   MV 90` (30`) Fly 240` (80`),   AC -2,   HD 11,   #AT 3 or 1 (2 claws, bite or breath),   THAC0 11,   DG 2d4/2d4/6d6,    SV F11,   ML 10,   THC XV,   XP 3,600,   BOOK LL,   PAGE 70 
+Dragon, Green 
+#Enc. 1d4 (1d4),   AL C,   MV 90` (30`) Fly 240` (80`),   AC 1,   HD 8,   #AT 3 or 1 (2 claws, bite or breath),   THAC0 12,   DG 1d6/1d6/3d8,    SV F8,   ML 9,   THC XV,   XP 2,060,   BOOK LL,   PAGE 70 
+Dragon, Red
+#Enc. 1d4 (1d4),   AL C,   MV 90` (30`) Fly 240` (80`),   AC -1,   HD 10,   #AT 3 or 1 (2 claws, bite or breath),   THAC0 11,   DG 1d8/1d8/4d8,    SV F10,   ML 10,   THC XV,   XP 3,100,   BOOK LL,   PAGE 70 
+Dragon, Sea 
+#Enc. 0 (1d4),   AL N,   MV 180` (60`) Swim and Fly,   AC 1,   HD 8,   #AT 1 (bite or spit),   THAC0 12,   DG 3d8 or poison,    SV F8,   ML 9,   THC XV,   XP 2,060,   BOOK LL,   PAGE 70 
+Dragon, Silver 
+#Enc. 1d4 (1d4),   AL LG,   MV 90` (30`) Fly 240` (80`),   AC -1,   HD 10,   #AT 3 (2 claws, bite) or 1 (breathe),   THAC0 11,   DG 1d6/1d6/5d6 or Breathe,    SV F10,   ML 10,   THC XV,   XP 3,100,   BOOK AEC,   PAGE 121 
+Dragon, White 
+#Enc. 1d4 (1d4),   AL N,   MV 90` (30`) Fly 240` (80`),   AC 3,   HD 6,   #AT 3 or 1 (2 claws, bite or breath),   THAC0 14,   DG 1d4/1d4/2d8,    SV F6,   ML 8,   THC XV,   XP 1,070,   BOOK LL,   PAGE 70 
+Dragonne 
+#Enc. 1 (1),   AL N,   MV 150` (50`) Fly 90` (30`),   AC 2,   HD 9,   #AT 3 (2 claws, bite) or 1 (roar),   THAC0 12,   DG 1d8/1d8/3d6 or Roar (SV paralyze or suffer weakness),    SV F9,   ML 9,   THC IX, XX, VII,   XP 2,800,   BOOK AEC,   PAGE 122
+Dryad 
+#Enc. 0 (1d6),   AL N,   MV 120` (40`),   AC 5,   HD 2,   #AT 1 (charm),   THAC0 18,   DG 0,    SV F4,   ML 6,   THC XIX,   XP 29,   BOOK LL,   PAGE 72 
+Dwarf 
+#Enc. 1d6 (5d8),   AL L or N,   MV 60` (20`),   AC 4,   HD 1,   #AT 1,   THAC0 19,   DG 1d8 or weapon,    SV D1,   ML 8,   THC XVI,   XP 10,   BOOK LL,   PAGE 72 
+Dwarf, Duergar 
+#Enc. 2d4 (1d00+100),   AL CE,   MV 60` (20`),   AC 4,   HD 1+2,   #AT 1 (weapon),   THAC0 18,   DG As weapon,    SV F1,   ML 8,   THC VI, XX,   XP 21,   BOOK AEC,   PAGE 122 
+Eagle, Giant 
+#Enc. 1d6 (1d20),   AL N,   MV 30` (10`) Fly 480` (120`),   AC 7,   HD 4,   #AT 3 (2 claws, bite),   THAC0 16,   DG 1d6/1d6/2d6/,    SV F4,   ML 8,   THC XI, XXII (no coins),   XP 80,   BOOK AEC,   PAGE 122 
+Ear Seeker 
+#Enc. 1d4 (1d4),   AL N,   MV 10` (3`),   AC 9,   HD 1 hp,   #AT Special,   THAC0 19,   DG Special,    SV F1,   ML N/A,   THC None,   XP 5,   BOOK AEC,   PAGE 123 
+Eel, Electric 
+#Enc. 1d3 (1d3),   AL N,   MV 120` (40`),   AC 9,   HD 2,   #AT 1 (bite),   THAC0 18,   DG 1d4,    SV F2,   ML 7,   THC None,   XP 29,   BOOK AEC,   PAGE 123 
+Eel, Giant 
+#Enc. 1d4 (1d4),   AL N,   MV 90` (30`),   AC 6,   HD 5,   #AT 1 (bite),   THAC0 15,   DG 3d6,    SV F5,   ML 8,   THC None,   XP 200,   BOOK AEC,   PAGE 123 
+Eel, Sea 
+#Enc. 1d6x10,   AL N,   MV 150` (50`),   AC 8,   HD 1 -1,   #AT 1 (bite),   THAC0 19,   DG 1,    SV F1,   ML 7,   THC X, XII, XIII,   XP 6,   BOOK AEC,   PAGE 123 
+Efreeti 
+#Enc. 1 (1),   AL C,   MV 90` (30`),   AC 3,   HD 10,   #AT 1,   THAC0 11,   DG 2d8,    SV F15,   ML 12,   THC None,   XP 4,500,   BOOK LL,   PAGE 73 
+Elemental, Air 
+#Enc. 1 (1),   AL N,   MV Fly 360` (120`),   AC 2/0/-2,   HD 8/12/16,   #AT special,   THAC0 13/10/8,   DG 1d8 or 2d8 or 3d8,    SV F8-16,   ML 10,   THC None,   XP 1,570; 2,800; 3,300,   BOOK LL,   PAGE 73 
+Elemental, Earth 
+#Enc. 1 (1),   AL N,   MV 60` (20`),   AC 2/0/-2,   HD 8/12/16,   #AT special,   THAC0 13/10/8,   DG 1d8 or 2d8 or 3d8,    SV F8-16,   ML 10,   THC None,   XP 1,570; 2,800; 3,300,   BOOK LL,   PAGE 73 
+Elemental, Fire 
+#Enc. 1 (1),   AL N,   MV 120` (40`),   AC 2/0/-2,   HD 8/12/16,   #AT special,   THAC0 13/10/8,   DG 1d8 or 2d8 or 3d8,    SV F8-16,   ML 10,   THC None,   XP 1,570; 2,800; 3,300,   BOOK LL,   PAGE 73 
+Elemental, Water 
+#Enc. 1 (1),   AL N,   MV 60` (20`) Swim 180` (60`),   AC 2/0/-2,   HD 8/12/16,   #AT special,   THAC0 13/10/8,   DG 1d8 or 2d8 or 3d8,    SV F8-16,   ML 10,   THC None,   XP 1,570; 2,800; 3,300,   BOOK LL,   PAGE 73 
+Elephant 
+#Enc. 0 (1d20),   AL N,   MV 120` (40`),   AC 5,   HD 9,   #AT 2 or 1 (2 tusks or trample),   THAC0 12,   DG 2d4/2d4 or 4d8,    SV F5,   ML 8,   THC None,   XP 2,400,   BOOK LL,   PAGE 74 
+Elf 
+#Enc. 1d4 (2d12),   AL N,   MV 120` (40`),   AC 5,   HD 1+1,   #AT 1 (weapon),   THAC0 18,   DG 1d8 or weapon,    SV E1,   ML 8,   THC XVIII,   XP 15,   BOOK LL,   PAGE 74 
+Elf, Deep 
+#Enc. 1d10 (4d12),   AL NE,   MV 120` (40`),   AC 5,   HD 1,   #AT 1 (weapon),   THAC0 19,   DG As weapon,    SV F1,   ML 7,   THC XX,   XP 10,   BOOK AEC,   PAGE 123 
+Elf, Drow 
+#Enc. 2d4 (5d10),   AL CE,   MV 120` (40`),   AC 4,   HD 2,   #AT 1 or 2 (weapon),   THAC0 18,   DG As weapon,    SV F2,   ML 10,   THC Vx5, XIx2,   XP 38,   BOOK AEC,   PAGE 123 
+Ettin 
+#Enc. 1d2 (1d4),   AL C,   MV 120` (40`),   AC 3,   HD 10,   #AT 2 (club, club),   THAC0 11,   DG 2d8/3d6,    SV F10,   ML 9,   THC XIX,   XP 1,700,   BOOK LL,   PAGE 74 
+Eye of Terror
+#Enc. 1 (1),   AL CE,   MV 60` (20`),   AC 0 (body), 2 (central eye), 3 (eye stalks),   HD 10-12,   #AT 3 (2 tentacles, bite),   THAC0 11/11/10,   DG 1d6/1d6/2d4,    SV F12,   ML 9,   THC VII, IX, XIV,   XP 7,300,   BOOK AEC,   PAGE 125
+Eye of the Deep 
+#Enc. 1 (1),   AL CE,   MV 60` (20`),   AC 5,   HD 10-12,   #AT 3 (2 claws, bite),   THAC0 11/11/10,   DG 2d4/2d4/1d6,    SV F10-12,   ML 8,   THC X,   XP 3,800,   BOOK AEC,   PAGE 124 
+Eye, Floating 
+#Enc. 1d12 (1d12),   AL N,   MV 300` (100`),   AC 9,   HD 1d4 hp,   #AT 1 (eye),   THAC0 19,   DG SV paralyzation or stunned,    SV F1,   ML 6,   THC None,   XP 6,   BOOK AEC,   PAGE 124 
+Eye, Tentacled 
+#Enc. 1 (1),   AL CE,   MV 90` (30`),   AC 4 (tentacles 5),   HD 14-16,   #AT 8 (tentacles) or 1 (bite),   THAC0 9/9/8,   DG 1d8 (tentacles) or 2d6 (bite),    SV F14-16,   ML 10,   THC VII, IX, XIV,   XP 4,200,   BOOK AEC,   PAGE 125
+Ferret, Giant 
+#Enc. 1d8 (1d12),   AL N,   MV 150` (50`),   AC 5,   HD 1+1,   #AT 1 (bite),   THAC0 18,   DG 1d8,    SV F1,   ML 8,   THC None,   XP 15,   BOOK LL,   PAGE 74 
+Fish, Giant Catfish 
+#Enc. 0 (1d2),   AL N,   MV Swim 90` (30`),   AC 4,   HD 8+3,   #AT 5 (bite, 4 feelers),   THAC0 12,   DG 2d8/1d4 each feeler,    SV F4,   ML 8,   THC None,   XP 620,   BOOK LL,   PAGE 75 
+Fish, Giant Piranha 
+#Enc. 0 (2d4),   AL N,   MV Swim 150` (50`),   AC 6,   HD 3+3,   #AT 1 (bite),   THAC0 16,   DG 1d8,    SV F2,   ML 7,   THC None,   XP 65,   BOOK LL,   PAGE 75 
+Fish, Giant Rockfish 
+#Enc. 0 (2d4),   AL N,   MV Swim 180` (60`),   AC 7,   HD 5+5,   #AT 4 (spines),   THAC0 14,   DG 1d4x4 (each, poison),    SV F3,   ML 8,   THC None,   XP 460,   BOOK LL,   PAGE 75 
+Fish, Giant Sturgeon 
+#Enc. 0 (1),   AL N,   MV Swim 180` (60`),   AC 0,   HD 10+2,   #AT 1 (bite),   THAC0 11,   DG 2d10,    SV F5,   ML 9,   THC None,   XP 1,700,   BOOK LL,   PAGE 75 
+Flightless Bird 
+#Enc. 2d10 (2d10),   AL N,   MV 180` (60`),   AC 7,   HD 1-3,   #AT 1 (bite or claws),   THAC0 19/18/17,   DG 1d4 or 2d4,    SV F1-3,   ML 8,   THC None,   XP 10; 20; 50,   BOOK AEC,   PAGE 126 
+Fly, Giant Carnivorous 
+#Enc. 1d6 (2d6),   AL N,   MV 90` (30`) Fly 180` (60`),   AC 6,   HD 2,   #AT 1 (bite),   THAC0 18,   DG 1d8,    SV F1,   ML 8,   THC VI,   XP 29,   BOOK LL,   PAGE 75 
+Frog, Giant 
+#Enc. 5d8 (5d8),   AL N,   MV 30` (`10) Swim 90` (30`),   AC 7,   HD 1-3,   #AT 1 (bite),   THAC0 19/18/17,   DG 1d3, 1d6, 2d4,    SV F1-3,   ML 7,   THC None,   XP 13; 29; 65,   BOOK AEC,   PAGE 126 
+Frog, Giant Killer 
+#Enc. 3d6,   AL N,   MV 60` (`20) Swim 120` (40`),   AC 8,   HD 1+4,   #AT 3 (2 claws, bite),   THAC0 18,   DG 1d2/1d2/1d4+1,    SV F1,   ML 7,   THC None,   XP 21,   BOOK AEC,   PAGE 126 
+Frog, Giant Poisonous 
+#Enc. 2d6,   AL N,   MV 30` (`10) Swim 90` (30`),   AC 8,   HD 1,   #AT 1,   THAC0 19,   DG 1 and SV poison (with +4) or die,    SV F1,   ML 7,   THC None,   XP 13,   BOOK AEC,   PAGE 126 
+Fungi, Violet 
+#Enc. 1d4 (1d4),   AL N,   MV 10` (3`),   AC 7,   HD 3,   #AT 1d4,   THAC0 17,   DG SV poison or rot into corpse after 1 round,    SV F3,   ML 8,   THC None,   XP 80,   BOOK AEC,   PAGE 126 
+Gargoyle 
+#Enc. 1d6 (2d4),   AL C,   MV 90` (30`) Fly 150` (50`),   AC 5,   HD 4,   #AT 4 (2 claws, bite, horn),   THAC0 16,   DG 1d3/1d3/1d6/1d4,    SV F8,   ML 11,   THC XX,   XP 500,   BOOK LL,   PAGE 75 
+Gas Spore 
+#Enc. 1d3 (1d3),   AL N,   MV 30` (10`),   AC 9,   HD 1 hp,   #AT 1,   THAC0 19,   DG SV poison die in 1 day (if hit, SV wands or suffer 6d6 damage),    SV F1,   ML 12,   THC None,   XP 6,   BOOK AEC,   PAGE 126 
+Gelatinous Cube 
+#Enc. 1 (0),   AL N,   MV 60` (20`),   AC 8,   HD 4,   #AT 1,   THAC0 16,   DG 2d4/special,    SV F2,   ML 12,   THC VII,   XP 245,   BOOK LL,   PAGE 76 
+Ghast (Undead) 
+#Enc. 1d6 (1d6),   AL CE,   MV 150` (50`),   AC 4,   HD 4,   #AT 3 (2 claws, bite),   THAC0 16,   DG 1d4/1d4/1d8,    SV F4,   ML 9,   THC VIII, IX, XI, XXI,   XP 190,   BOOK AEC,   PAGE 127 
+Ghost (Undead) 
+#Enc. 1 (1),   AL CE,   MV 90` (30`),   AC 0 (8),   HD 10,   #AT 1,   THAC0 11,   DG Special,    SV F10,   ML 10,   THC IX, XIX,   XP 3,100,   BOOK AEC,   PAGE 127 
+Ghoul (Undead) 
+#Enc. 1d6 (2d8),   AL C,   MV 90` (30`),   AC 6,   HD 2 (turn as 3 HD),   #AT 3,   THAC0 18,   DG 1d3/1d3/1d3 + paralysis,    SV F2,   ML 9,   THC XXI,   XP 47,   BOOK LL,   PAGE 76 
+Giant, Cloud 
+#Enc. 1d2 (1d3),   AL N,   MV 120` (40`),   AC 4,   HD 12+3,   #AT 1,   THAC0 10,   DG 6d6,    SV F12,   ML 10,   THC XVIII + 5,000 gp,   XP 2,000,   BOOK LL,   PAGE 77 
+Giant, Fire 
+#Enc. 1d2 (1d3),   AL C,   MV 120` (40`),   AC 4,   HD 11+2,   #AT 1,   THAC0 10,   DG 5d6,    SV F11,   ML 9,   THC XVIII + 5,000 gp,   XP 2,000,   BOOK LL,   PAGE 77 
+Giant, Frost
+#Enc. 1d2 (1d4),   AL C,   MV 120` (40`),   AC 4,   HD 10+1,   #AT 1,   THAC0 11,   DG 4d6,    SV F10,   ML 9,   THC XVIII + 5,000 gp,   XP 1,700,   BOOK LL,   PAGE 76 
+Giant, Hill 
+#Enc. 1d4 (2d4),   AL C,   MV 120` (40`),   AC 4,   HD 8,   #AT 1,   THAC0 12,   DG 2d8,    SV F8,   ML 8,   THC XVIII + 5,000 gp,   XP 560,   BOOK LL,   PAGE 76 
+Giant, Stone 
+#Enc. 1d2 (1d6),   AL N,   MV 120` (40`),   AC 4,   HD 9,   #AT 1,   THAC0 12,   DG 3d6,    SV F9,   ML 9,   THC XVIII + 5,000 gp,   XP 1,700,   BOOK LL,   PAGE 76 
+Giant, Storm 
+#Enc. 1 (1d3),   AL L,   MV 150` (50`),   AC 2,   HD 15,   #AT 1 (rocks or lightning),   THAC0 9,   DG 6d8,    SV F15,   ML 10,   THC XVIII + 5,000 gp,   XP 3,300,   BOOK LL,   PAGE 77 
+Gnoll 
+#Enc. 1d6 (3d6),   AL C,   MV 90` (30`),   AC 5,   HD 2,   #AT 1 (weapon),   THAC0 18,   DG 2d4 or weapon,    SV F2,   ML 8,   THC XIX,   XP 47,   BOOK LL,   PAGE 77 
+Gnome 
+#Enc. 1d8 (5d8),   AL L or N,   MV 60` (20`),   AC 5,   HD 1,   #AT 1 (weapon),   THAC0 19,   DG 1d6 or weapon,    SV D1,   ML 8,   THC XX,   XP 10,   BOOK LL,   PAGE 78 
+Goblin 
+#Enc. 2d4 (6d10),   AL C,   MV 60` (20`),   AC 6,   HD 1 -1,   #AT 1 (weapon),   THAC0 19,   DG 1d6 or weapon,    SV 0 human,   ML 7,   THC III (XX),   XP 5,   BOOK LL,   PAGE 78 
+Golem, Amber 
+#Enc. 1 (1),   AL N,   MV 180` (60`),   AC 6,   HD 10,   #AT 3 (2 claws, bite),   THAC0 11,   DG 2d6/2d6/2d10,    SV F5,   ML 12,   THC None,   XP 3,100,   BOOK LL,   PAGE 79 
+Golem, Bone 
+#Enc. 1 (1),   AL N,   MV 120` (40`),   AC 2,   HD 8,   #AT 4 (weapons),   THAC0 12,   DG weapon type,    SV F4,   ML 12,   THC None,   XP 2,065,   BOOK LL,   PAGE 79 
+Golem, Bronze 
+#Enc. 1 (1),   AL N,   MV 240` (80`),   AC 0,   HD 20,   #AT 1 (fist),   THAC0 6,   DG 3d10 + heat,    SV F10,   ML 12,   THC None,   XP 4,250,   BOOK LL,   PAGE 79 
+Golem, Clay 
+#Enc. 1 (0),   AL N,   MV 60` (20`),   AC 7,   HD 11,   #AT 1 (fist),   THAC0 11,   DG 3d10,    SV F11,   ML 12,   THC None,   XP 3,000,   BOOK AEC,   PAGE 127 
+Golem, Flesh 
+#Enc. 1 (0),   AL N,   MV 90` (30`),   AC 9,   HD 9,   #AT 2 (fists),   THAC0 12,   DG 2d8/2d8,    SV F9,   ML 12,   THC None,   XP 2,400,   BOOK AEC,   PAGE 127 
+Golem, Iron 
+#Enc. 1 (0),   AL N,   MV 60` (20`),   AC 3,   HD 18,   #AT 1 (fist),   THAC0 7,   DG 4d10,    SV F18,   ML 12,   THC None,   XP 5,250,   BOOK AEC,   PAGE 127 
+Golem, Stone 
+#Enc. 1 (0),   AL N,   MV 60` (20`),   AC 5,   HD 14,   #AT 1 (fist),   THAC0 9,   DG 3d8,    SV F14-16,   ML 12,   THC None,   XP 4,200,   BOOK AEC,   PAGE 127 
+Golem, Wood 
+#Enc. 1 (1),   AL N,   MV 120` (40`),   AC 7,   HD 2+2,   #AT 1 (fist),   THAC0 17,   DG 1d8,    SV F1,   ML 12,   THC None,   XP 59,   BOOK LL,   PAGE 79 
+Gorgon 
+#Enc. 1d2 (1d4),   AL C,   MV 120` (40`),   AC 2,   HD 8,   #AT 1 (gore or breath),   THAC0 12,   DG 2d6 or petrify,    SV F8,   ML 8,   THC XVIII,   XP 1,060,   BOOK LL,   PAGE 79 
+Gray Ooze 
+#Enc. 1 (1),   AL N,   MV 10` (3`),   AC 8,   HD 3,   #AT 1,   THAC0 17,   DG 2d8,    SV F2,   ML 12,   THC None,   XP 80,   BOOK LL,   PAGE 79 
+Gray Worm 
+#Enc. 1d3 (1d3),   AL N,   MV 60` (20`),   AC 6,   HD 6,   #AT 1 (bite),   THAC0 14,   DG 1d8,    SV F3,   ML 9,   THC XXI,   XP 570,   BOOK LL,   PAGE 80 
+Green Slime 
+#Enc. 1 (0),   AL N,   MV 3` (1`),   AC NA,   HD 2,   #AT 1,   THAC0 18,   DG digestion,    SV F1,   ML 12,   THC None,   XP 38,   BOOK LL,   PAGE 80 
+Griffon 
+#Enc. 0 (2d8),   AL N,   MV 120` (40`) Fly 360` (120`),   AC 5,   HD 7,   #AT 3 (2 claws, bite),   THAC0 13,   DG 1d4/1d4/2d8,    SV F4,   ML 8,   THC XVIII,   XP 440,   BOOK LL,   PAGE 80 
+Groaning Spirit (Banshee) (Undead) 
+#Enc. 1 (1),   AL CE,   MV 150` (50`),   AC 0,   HD 8,   #AT 1,   THAC0 12,   DG 1d8,    SV F7,   ML 10,   THC XXII,   XP 1,490,   BOOK AEC,   PAGE 128 
+Halfling 
+#Enc. 3d6 (5d8),   AL L,   MV 90` (30`),   AC 7,   HD 1 -1,   #AT 1 (weapon),   THAC0 19,   DG 1d6 or weapon,    SV H1,   ML 7,   THC XXI,   XP 5,   BOOK LL,   PAGE 80 
+Harpy 
+#Enc. 1d6 (2d4),   AL C,   MV 60` (20`) Fly 150` (50`),   AC 7,   HD 3,   #AT 3 (2 claws, weapon, charm),   THAC0 17,   DG 1d4/1d4/1d6,    SV F3,   ML 7,   THC XX,   XP 80,   BOOK LL,   PAGE 81 
+Hawk 
+#Enc. 0 (1d6),   AL N,   MV Fly 480` (160`),   AC 8,   HD 1d4 hp,   #AT 1,   THAC0 19,   DG 1d2,    SV 0 human,   ML 7,   THC None,   XP 5,   BOOK LL,   PAGE 81 
+Hawk, Giant
+#Enc. 0 (1d3),   AL N,   MV Fly 450` (150`),   AC 6,   HD 3+3,   #AT 1,   THAC0 16,   DG 1d6,    SV F2,   ML 8,   THC None,   XP 65,   BOOK LL,   PAGE 81 
+Hell Hound 
+#Enc. 2d4 (2d4),   AL C,   MV 120` (40`),   AC 4,   HD 3-7,   #AT 1 (bite or breath),   THAC0 17/16/15/14/13,   DG 1d6 or 1d6 per HD,    SV F3 to F7,   ML 9,   THC XX,   XP 80; 190; 500; 820; 1,140,   BOOK LL,   PAGE 81 
+Herd Animals 
+#Enc. 0 (3d10),   AL N,   MV 240` (80`),   AC 7,   HD 1-4,   #AT 1 (butt),   THAC0 19/18/17/16,   DG 1d4, 1d6, or 1d8,    SV F1 or F2,   ML 5,   THC None,   XP 10; 20; 50; 80,   BOOK LL,   PAGE 81 
+Hippocampus 
+#Enc. 2d4 (2d4),   AL CG,   MV 240` (80`),   AC 5,   HD 4,   #AT 1,   THAC0 16,   DG 1d4,    SV F4,   ML 8,   THC None,   XP 200,   BOOK AEC,   PAGE 128 
+Hippogriff 
+#Enc. 0 (2d8),   AL N,   MV 180` (60`) Fly 360` (120`),   AC 5,   HD 3+1,   #AT 3 (2 claws, bite),   THAC0 16,   DG 1d6/1d6/1d10,    SV F2,   ML 8,   THC None,   XP 65,   BOOK LL,   PAGE 82 
+Hobgoblin  
+#Enc. 1d6 (4d6),   AL C,   MV 90` (30`),   AC 6,   HD 1+1,   #AT 1 (weapon),   THAC0 18,   DG 1d8 or weapon,    SV F1,   ML 8,   THC XIX,   XP 15,   BOOK LL,   PAGE 82 
+Homunculus 
+#Enc. 1 (0),   AL As creator,   MV 60` (20`) Fly 180` (60`),   AC 6,   HD 2,   #AT 1 (bite),   THAC0 18,   DG 1d3,    SV As creator,   ML 11,   THC None,   XP 38,   BOOK AEC,   PAGE 129 
+Horse, Draft 
+#Enc. 0,   AL N,   MV 90` (30`),   AC 7,   HD 3,   #AT None,   THAC0 17,   DG None,    SV F2,   ML 6,   THC None,   XP 50,   BOOK LL,   PAGE 82 
+Horse, Riding 
+#Enc. 0 (1d10x10),   AL N,   MV 240` (80`),   AC 7,   HD 2,   #AT 2 (hooves),   THAC0 18,   DG 1d4/1d4,    SV F1,   ML 7,   THC None,   XP 20,   BOOK LL,   PAGE 82 
+Horse, War 
+#Enc. 0,   AL N,   MV 120` (40`),   AC 7,   HD 3,   #AT 2 (hooves),   THAC0 17,   DG 1d6/1d6,    SV F2,   ML 9,   THC None,   XP 50,   BOOK LL,   PAGE 82 
+Hydra 
+#Enc. 1 (1),   AL N,   MV 120` (40`),   AC 5,   HD 5-12,   #AT Per head,   THAC0 15/14/13/12/12/11/11/10,   DG 1d10 per head,    SV F5 to F12,   ML 9,   THC XXI,   XP As HD,   BOOK LL,   PAGE 82 
+Hyena 
+#Enc. 2d6 (2d6),   AL N,   MV 120` (40`),   AC 7,   HD 3,   #AT 1 (bite),   THAC0 17,   DG 2d4,    SV F3,   ML 9,   THC None,   XP 50,   BOOK AEC,   PAGE 129 
+Hyena, Giant 
+#Enc. 2d4 (2d4),   AL N,   MV 120` (40`),   AC 7,   HD 5,   #AT 1 (bite),   THAC0 15,   DG 3d4,    SV F5,   ML 9,   THC None,   XP 200,   BOOK AEC,   PAGE 129 
+Insect Swarm 
+#Enc. 1 swarm (3 swarms),   AL N,   MV 30` (10`) Fly 60` (20`),   AC 7,   HD 2-4,   #AT 1,   THAC0 18/17/16,   DG 2 hp,    SV 0 human,   ML 11,   THC None,   XP 29; 65; 135,   BOOK LL,   PAGE 83 
+Invisible Stalker 
+#Enc. 1 (1),   AL N,   MV 120` (40`),   AC 3,   HD 8,   #AT 1,   THAC0 12,   DG 4d4,    SV F8,   ML 12,   THC None,   XP 215,   BOOK LL,   PAGE 83 
+Jackal 
+#Enc. 1d6 (2d4),   AL N,   MV 150` (50`),   AC 7,   HD 1d4 hp,   #AT 1 (bite),   THAC0 19,   DG 1d2,    SV F1,   ML 7,   THC None,   XP 5,   BOOK AEC,   PAGE 129 
+Jackalwere 
+#Enc. 1d4 (1d4),   AL CE,   MV 120` (40`),   AC 4,   HD 4,   #AT 1 (bite or weapon),   THAC0 16,   DG 2d4 or weapon,    SV F4,   ML 9,   THC XXII,   XP 190,   BOOK AEC,   PAGE 129 
+Kobold 
+#Enc. 4d4 (6d10),   AL C,   MV 60` (20`),   AC 7,   HD 1d4 hp,   #AT 1 (weapon),   THAC0 19,   DG 1d4 or weapon -1,    SV 0 human,   ML 6,   THC I (XIII),   XP 5,   BOOK LL,   PAGE 83 
+Lamia 
+#Enc. 1 (1),   AL CE,   MV 240` (80`),   AC 3,   HD 9,   #AT 1 (weapon),   THAC0 12,   DG 1d6,    SV F9,   ML 9,   THC XXII,   XP 4,500,   BOOK AEC,   PAGE 129 
+Lammasu 
+#Enc. 2d4 (2d4),   AL LG,   MV 120` (40`) Fly 240` (80`),   AC 6,   HD 7+7,   #AT 2 (claws),   THAC0 12,   DG 1d6/1d6,    SV F7,   ML 9,   THC VIII, IX, X,   XP 1,300,   BOOK AEC,   PAGE 130 
+Leech, Giant 
+#Enc. 0 (1d4),   AL N,   MV 120` (40`),   AC 7,   HD 6,   #AT 1 (drain blood),   THAC0 14,   DG 1d6,    SV F3,   ML 10,   THC None,   XP 570,   BOOK LL,   PAGE 84 
+Leprechaun 
+#Enc. 1 (1d20),   AL N,   MV 150` (50`),   AC 8,   HD 1d4+1 hp,   #AT 0,   THAC0 19,   DG Special,    SV M1,   ML 6,   THC XVII,   XP 6,   BOOK AEC,   PAGE 130 
+Lich (Undead) 
+#Enc. 1 (1),   AL NE,   MV 60` (20`),   AC 0,   HD 12+,   #AT 1 (cold touch),   THAC0 10,   DG 1d10 cold damage,    SV M18+,   ML 9,   THC XXII,   XP 4,400,   BOOK AEC,   PAGE 130 
+Lizard, Giant Draco 
+#Enc. 1d4 (1d8),   AL N,   MV 120` (40`) Fly 210` (70`),   AC 5,   HD 4+2,   #AT 1 (bite),   THAC0 15,   DG 1d10,    SV F3,   ML 7,   THC VI,   XP 215,   BOOK LL,   PAGE 84 
+Lizard, Giant Gecko
+#Enc. 1d6 (1d10),   AL N,   MV 120` (40`),   AC 5,   HD 3+1,   #AT 1 (bite),   THAC0 16,   DG 1d8,    SV F2,   ML 7,   THC VI,   XP 100,   BOOK LL,   PAGE 84 
+Lizard, Giant Horned Chameleon 
+#Enc. 1d3 (1d6),   AL N,   MV 120` (40`),   AC 5,   HD 5,   #AT 2 (bite, horn),   THAC0 15,   DG 2d4/1d6,    SV F3,   ML 7,   THC VI,   XP 800,   BOOK LL,   PAGE 84 
+Lizard, Giant Tuatara 
+#Enc. 1d2 (1d4),   AL N,   MV 90` (30`),   AC 4,   HD 6,   #AT 3 (2 claws, bite),   THAC0 14,   DG 1d4/1d4/1d6,    SV F4,   ML 6,   THC VII,   XP 570,   BOOK LL,   PAGE 84 
+Lizardfolk 
+#Enc. 2d4 (6d6),   AL N,   MV 60` (20`),   AC 5,   HD 2+1,   #AT 1 (weapon),   THAC0 17,   DG 1d6+1 or weapon +1,    SV F2,   ML 12,   THC XIX,   XP 47,   BOOK LL,   PAGE 84 
+Locathah 
+#Enc. 3d4 (2d10x10),   AL N,   MV 120` (40`),   AC 6,   HD 2,   #AT 1 (weapon),   THAC0 18,   DG As weapon,    SV F2,   ML 9,   THC XXII,   XP 20,   BOOK AEC,   PAGE 131 
+Locust, Subterranean  
+#Enc. 2d10 (1d10),   AL N,   MV 60` (20`) Fly 180` (60`),   AC 4,   HD 2,   #AT 1 (bite, slam, or spit),   THAC0 18,   DG 1d2/1d4 or special,    SV F2,   ML 5,   THC None,   XP 38,   BOOK LL,   PAGE 85 
+Lurker Above 
+#Enc. 1 (1d4),   AL N,   MV 10` (3`) Fly 90` (30`),   AC 6,   HD 10,   #AT 1,   THAC0 11,   DG 1d6,    SV F10,   ML 12,   THC XXI,   XP 1,700,   BOOK AEC,   PAGE 131 
+Lycanthrope, Werebear 
+#Enc. 1d4 (1d4),   AL N,   MV 120` (40`),   AC 2 (8),   HD 6,   #AT 3 (2 claws, bite),   THAC0 14,   DG 2d4/2d4/2d8,    SV F6,   ML 10,   THC XX,   XP 1,070,   BOOK LL,   PAGE 85 
+Lycanthrope, Wereboar 
+#Enc. 1d4 (2d4),   AL N,   MV 150` (50`),   AC 4 (9),   HD 4+1,   #AT 1 (tusk bite),   THAC0 15,   DG 2d6,    SV F4,   ML 9,   THC XX,   XP 365,   BOOK LL,   PAGE 85 
+Lycanthrope, Wererat 
+#Enc. 1d8 (2d6),   AL C,   MV 120` (40`),   AC 7 (9),   HD 3,   #AT 1 (bite or weapon),   THAC0 17,   DG 1d4 or weapon,    SV F3,   ML 8,   THC XX,   XP 95,   BOOK LL,   PAGE 85 
+Lycanthrope, Weretiger 
+#Enc. 1d4 (1d4),   AL N,   MV 150` (50`),   AC 3 (9),   HD 5,   #AT 3 (2 claws, bite),   THAC0 15,   DG 1d6/1d6/2d6,    SV F5,   ML 9,   THC XX,   XP 650,   BOOK LL,   PAGE 85 
+Lycanthrope, Werewolf 
+#Enc. 1d6 (2d6),   AL C,   MV 180` (60`),   AC 5 (9),   HD 4,   #AT 1 (bite),   THAC0 16,   DG 2d4,    SV F4,   ML 8,   THC XX,   XP 190,   BOOK LL,   PAGE 85 
+Manticore 
+#Enc. 1d2 (1d4),   AL C,   MV 120` (40`) Fly 180` (60`),   AC 4,   HD 6+1,   #AT 3 (2 claws, bite) or 1 (spikes),   THAC0 13,   DG 1d4/1d4/2d4 or 1d6,    SV F6,   ML 9,   THC XIX,   XP 980,   BOOK LL,   PAGE 86 
+Mastodon 
+#Enc. 0 (2d8),   AL N,   MV 120` (40`),   AC 3,   HD 15,   #AT 2 (tusks) or 1 (trample),   THAC0 9,   DG 2d6/2d6 or 4d8,    SV F8,   ML 8,   THC None,   XP 3,300,   BOOK LL,   PAGE 86 
+Medusa 
+#Enc. 1d3 (1d4),   AL C,   MV 90` (30`),   AC 8,   HD 4,   #AT 1 (snakebite or gaze),   THAC0 16,   DG 1d6, poison or petrify,    SV F4,   ML 8,   THC XVII,   XP 245,   BOOK LL,   PAGE 87 
+Men, Berserker 
+#Enc. 1d6 (3d10),   AL N,   MV 120` (40`),   AC 7,   HD 1+1,   #AT 1,   THAC0 18,   DG 1d6 or weapon,    SV F1,   ML N/A,   THC I (XXI),   XP 21,   BOOK LL,   PAGE 87 
+Men, Brigand 
+#Enc. 0 (1d4x10),   AL N or C,   MV 120` (40`),   AC Armor type,   HD 1,   #AT 1,   THAC0 19,   DG 1d6 or weapon,    SV F1,   ML 8,   THC XXII,   XP 10,   BOOK LL,   PAGE 87 
+Men, Merchant 
+#Enc. 0 (1d20),   AL N,   MV 90` (30`),   AC 5,   HD 1,   #AT 1,   THAC0 19,   DG 1d6 or weapon,    SV F1,   ML Varies,   THC XXII,   XP 10,   BOOK LL,   PAGE 87 
+Men, Nomad 
+#Enc. 0 (1d4x10),   AL N,   MV 120` (40`),   AC Armor type,   HD 1,   #AT 1,   THAC0 19,   DG 1d6 or weapon,    SV F1,   ML 8,   THC XXII,   XP 10,   BOOK LL,   PAGE 87 
+Men, Pirate 
+#Enc. 0 (special),   AL C,   MV 120` (40`),   AC Armor type,   HD 1,   #AT 1,   THAC0 19,   DG 1d6 or weapon,    SV F1,   ML 6,   THC XXII,   XP 10,   BOOK LL,   PAGE 87 
+Merfolk 
+#Enc. 0 (1d20),   AL N,   MV Swim 120` (40`),   AC 6,   HD 1-4,   #AT 1,   THAC0 19/18/17/16,   DG 1d6 or weapon,    SV F1,   ML 8,   THC XXII,   XP 20,   BOOK LL,   PAGE 88 
+Mimic 
+#Enc. 1 (1),   AL N,   MV 30` (`10),   AC 7,   HD 7-10,   #AT 1,   THAC0 13/12/12/11,   DG 3d4,    SV F7-10,   ML 8,   THC None,   XP 790,   BOOK AEC,   PAGE 131 
+Minotaur 
+#Enc. 1d6 (1d8),   AL C,   MV 120` (40`),   AC 6,   HD 6,   #AT 2 or 1 (gore and bite, or weapon),   THAC0 14,   DG 1d6/1d6 or weapon,    SV F6,   ML 12,   THC XXII,   XP 820,   BOOK LL,   PAGE 88 
+Morlock 
+#Enc. 1d12 (5d10),   AL C,   MV 120` (40`),   AC 8,   HD 1,   #AT 1,   THAC0 19,   DG 1d6 or weapon,    SV F1,   ML 9,   THC XX,   XP 5,   BOOK LL,   PAGE 88 
+Mule
+#Enc. 1d8 (2d6),   AL N,   MV 120` (40`),   AC 7,   HD 2,   #AT 1 (kick or bite),   THAC0 18,   DG 1d4 or 1d3,    SV 0 human,   ML 8,   THC None,   XP 20,   BOOK LL,   PAGE 88 
+Mummy (Undead) 
+#Enc. 1d4 (1d12),   AL C,   MV 60` (20`),   AC 3,   HD 5+1,   #AT 1,   THAC0 14,   DG 1d12, disease,    SV F5,   ML 12,   THC XIX,   XP 860,   BOOK LL,   PAGE 89 
+Naga, Guardian 
+#Enc. 1d2 (0),   AL L,   MV 150` (50`),   AC 3,   HD 11-12,   #AT 2 (bite, constrict),   THAC0 11/10,   DG 1d6/2d4,    SV F11-12,   ML 11,   THC XXII,   XP 2,800,   BOOK AEC,   PAGE 131 
+Naga, Spirit 
+#Enc. 1d3 (0),   AL C,   MV 120` (40`),   AC 4,   HD 9-10,   #AT 1 (bite),   THAC0 12/11,   DG 1d3,    SV F9-10,   ML 8,   THC VIII, XXI,   XP 2,400,   BOOK AEC,   PAGE 131 
+Naga, Water 
+#Enc. 1d4 (0),   AL N,   MV 90` (30`) Swim 180` (60`),   AC 5,   HD 7-8,   #AT 1 (bite),   THAC0 13/12,   DG 1d4,    SV F7-8,   ML 8,   THC XIX,   XP 1,140,   BOOK AEC,   PAGE 131 
+Neanderthal 
+#Enc. 1d10 (4d10),   AL L,   MV 120` (40`),   AC 8,   HD 2,   #AT 1,   THAC0 18,   DG 2d4 or weapon,    SV F2,   ML 7,   THC XX,   XP 20,   BOOK LL,   PAGE 89 
+Night Hag 
+#Enc. 1 (1),   AL NE,   MV 90` (30`),   AC 9,   HD 8,   #AT 1,   THAC0 12,   DG 2d6,    SV F8,   ML 8,   THC None,   XP 1,560,   BOOK AEC,   PAGE 132 
+Nightmare 
+#Enc. 1 (0),   AL CE,   MV 150` (50`) Fly 360` (120`),   AC -4,   HD 6+6,   #AT 3 (bite, 2 hooves),   THAC0 13,   DG 2d4/1d6+4/1d6+4,    SV F6,   ML 10,   THC None,   XP 980,   BOOK AEC,   PAGE 132 
+Nixie 
+#Enc. 0 (2d20),   AL N,   MV Swim 120` (40`),   AC 7,   HD 1,   #AT 1,   THAC0 19,   DG 1d4,    SV E1,   ML 6,   THC XXI,   XP 16,   BOOK LL,   PAGE 89 
+Nymph 
+#Enc. 0 (1d4),   AL NG,   MV 120` (40`),   AC 9,   HD 3,   #AT 0,   THAC0 17,   DG if seen (SV spell or permanent blindness),    SV F3,   ML 6,   THC IX, XIx10,   XP 80,   BOOK AEC,   PAGE 132 
+Ochre Jelly 
+#Enc. 1 (0),   AL N,   MV 30` (10`),   AC 8,   HD 5,   #AT 1,   THAC0 15,   DG 2d6,    SV F3,   ML 12,   THC None,   XP 500,   BOOK LL,   PAGE 89 
+Octopus, Giant 
+#Enc. 0 (1d2),   AL N,   MV Swim 90` (30`),   AC 7,   HD 8,   #AT 8 (tentacles) or 1 (bite),   THAC0 12,   DG 1d3 (per tentacle)/1d6,    SV F4,   ML 7,   THC None,   XP 2,060,   BOOK LL,   PAGE 90 
+Ogre 
+#Enc. 1d6 (2d6),   AL C,   MV 90` (30`),   AC 5,   HD 4+1,   #AT 1 (club),   THAC0 15,   DG 1d10,    SV F4,   ML 10,   THC XX + 1,000 gp,   XP 215,   BOOK LL,   PAGE 90 
+Ogre Mage 
+#Enc. 1d5 (1d6),   AL LE,   MV 90` (30`) Fly 150` (50`),   AC 4,   HD 5+2,   #AT 1,   THAC0 14,   DG 1d12,    SV M5,   ML 9,   THC IX, XVII,   XP 660,   BOOK AEC,   PAGE 132 
+Orc 
+#Enc. 2d4 (1d6x10),   AL C,   MV 120` (40`),   AC 6,   HD 1,   #AT 1 (weapon),   THAC0 19,   DG 1d6 or weapon,    SV F1,   ML 8,   THC XIX,   XP 10,   BOOK LL,   PAGE 90 
+Otyugh 
+#Enc. 1 (2),   AL N,   MV 60` (20`),   AC 3,   HD 6-8,   #AT 3 (2 tentacles, bite),   THAC0 14/13/12,   DG 1d8/1d8/1d4+1,    SV F6-8,   ML 10,   THC None,   XP 820; 1,140; 1,560 ,   BOOK AEC,   PAGE 133 
+Otyugh, Advanced 
+#Enc. 1 (1),   AL N,   MV 60` (20`),   AC 0,   HD 9-12,   #AT 3 (2 tentacles, bite),   THAC0 12/11/11/10,   DG 2d6/2d6/2d4,    SV F9-12,   ML 9,   THC None,   XP 2,400; 2,800,   BOOK AEC,   PAGE 133 
+Owl Bear 
+#Enc. 1d4 (1d4),   AL N,   MV 120` (40`),   AC 5,   HD 5,   #AT 3 (2 claws, bite),   THAC0 15,   DG 1d8/1d8/1d8,    SV F3,   ML 9,   THC XX,   XP 350,   BOOK LL,   PAGE 91 
+Owl, Giant 
+#Enc. 1d4+1 (1d4+1),   AL N,   MV 30` (10`) Fly 180` (60`),   AC 6,   HD 4,   #AT 3 (2 talons, beak),   THAC0 16,   DG 2d4/2d4/1d4+1,    SV F4,   ML 8,   THC XIx5, XXI (magic only),   XP 80,   BOOK AEC,   PAGE 133 
+Pegasus 
+#Enc. 0 (1d12),   AL L,   MV 240` (80`) Fly 480` (160`),   AC 6,   HD 2+2,   #AT 2 (hooves),   THAC0 17,   DG 1d6/1d6,    SV F2,   ML 8,   THC None,   XP 47,   BOOK LL,   PAGE 91 
+Phase Tiger 
+#Enc. 1d4 (1d4),   AL N,   MV 150` (50`),   AC 4,   HD 6,   #AT 2 (tentacles),   THAC0 14,   DG 2d4/2d4,    SV F6,   ML 8,   THC XIX,   XP 570,   BOOK LL,   PAGE 91 
+Piercer 
+#Enc. 3d6 (3d6),   AL N,   MV 10` (3`),   AC 3,   HD 1-4,   #AT 1,   THAC0 19/18/17/16,   DG 1d6 per HD,    SV F1-4,   ML 10,   THC None,   XP 10; 20; 50; 80,   BOOK AEC,   PAGE 133 
+Pixie 
+#Enc. 2d4 (1d4x10),   AL N,   MV 90` (30`) Fly 180` (60`),   AC 3,   HD 1,   #AT 1 (dagger),   THAC0 19,   DG 1d4,    SV E1,   ML 7,   THC III + IV,   XP 16,   BOOK LL,   PAGE 91 
+Pseudo-dragon 
+#Enc. 1 (1),   AL NG,   MV 60` (20`) Fly 240` (80`),   AC 2,   HD 2,   #AT 1 (bite or tail),   THAC0 18,   DG 1d3 or SV poison or feign death,    SV F2,   ML 7,   THC XIx10,   XP 38,   BOOK AEC,   PAGE 134 
+Purple Worm
+#Enc. 1d2 (1d4),   AL N,   MV 60` (20`),   AC 6,   HD 15,   #AT 2 (bite, sting),   THAC0 9,   DG 2d8/1d8/poison,    SV F8,   ML 10,   THC XIX,   XP 3,300,   BOOK LL,   PAGE 92 
+Rakshasa 
+#Enc. 1d4 (1d4),   AL LE,   MV 150` (50`),   AC -4,   HD 7,   #AT 3 (2 claws, bite),   THAC0 13,   DG 1d3/1d3/1d4+1,    SV F7,   ML 9,   THC XVIII,   XP 1,840,   BOOK AEC,   PAGE 134 
+Rat 
+#Enc. 5d10 (2d10),   AL N,   MV 60` (20`) Swim 30` (10`),   AC 9,   HD 1 hp,   #AT 1 (bite, per group),   THAC0 19,   DG 1d6 + disease,    SV 0 human,   ML 5,   THC XI,   XP 6,   BOOK LL,   PAGE 92 
+Rat, Giant 
+#Enc. 3d6 (3d10),   AL N,   MV 120` (40`) Swim 60` (20`),   AC 7,   HD 1d4 hp,   #AT 1 (bite),   THAC0 19,   DG 1d3 + disease,    SV F1,   ML 8,   THC XX,   XP 6,   BOOK LL,   PAGE 92 
+Remorhaz 
+#Enc. 1 (1),   AL N,   MV 120` (40`),   AC 0, belly 4, head 2,   HD 7-14,   #AT 1 (bite),   THAC0 13/12/12/11/11/10/10/9,   DG 6d6,    SV F7-14,   ML 10,   THC XVIII,   XP 1,140,   BOOK AEC,   PAGE 134 
+Rhagodessa, Giant 
+#Enc. 1d4 (1d6),   AL N,   MV 150` (50`),   AC 5,   HD 4+2,   #AT 1 (leg or bite),   THAC0 15,   DG 0 or 2d8,    SV F2,   ML 9,   THC VI,   XP 215,   BOOK LL,   PAGE 92 
+Rhinoceros 
+#Enc. 0 (1d12),   AL N,   MV 120` (40`),   AC 5,   HD 6,   #AT 1 (butt or trample),   THAC0 14,   DG 2d4 or 2d8,    SV F3,   ML 6,   THC None,   XP 570,   BOOK LL,   PAGE 93 
+Rhinoceros, Woolly 
+#Enc. 0 (1d8),   AL N,   MV 120` (40`),   AC 4,   HD 8,   #AT 1 (butt or trample),   THAC0 12,   DG 2d6 or 2d12,    SV F4,   ML 6,   THC None,   XP 1,060,   BOOK LL,   PAGE 93 
+Roc, Giant 
+#Enc. 0 (1),   AL L,   MV 60` (20`) Fly 480` (160`),   AC 0,   HD 36,   #AT 3 (2 claws, bite),   THAC0 5,   DG 3d6/3d6/8d6,    SV F9,   ML 10,   THC XIV,   XP 6,750,   BOOK LL,   PAGE 93 
+Roc, Large 
+#Enc. 0 (1d8),   AL L,   MV 60` (20`) Fly 480` (160`),   AC 2,   HD 12,   #AT 3 (2 claws, bite),   THAC0 10,   DG 1d8/1d8/2d10,    SV F6,   ML 9,   THC XIV,   XP 1,200,   BOOK LL,   PAGE 93 
+Roc, Small 
+#Enc. 0 (1d12),   AL L,   MV 60` (20`) Fly 480` (160`),   AC 4,   HD 6,   #AT 3 (2 claws, bite),   THAC0 14,   DG 1d4+1/1d4+1/2d6,    SV F3,   ML 8,   THC XIV,   XP 320,   BOOK LL,   PAGE 93 
+Roper 
+#Enc. 1d3 (1d3),   AL CE,   MV 30` (10`),   AC 0,   HD 10-12,   #AT 1,   THAC0 11/11/10,   DG 5d4,    SV F10-12,   ML 8,   THC Vx2,   XP 2,400,   BOOK AEC,   PAGE 135 
+Rot Grub 
+#Enc. 0 (5d4),   AL N,   MV 10` (2`),   AC 9,   HD 1 hp,   #AT special,   THAC0 19,   DG special,    SV 0 human,   ML N/A,   THC None,   XP 5,   BOOK LL,   PAGE 93 
+Rust Monster 
+#Enc. 1d4 (1d4),   AL N,   MV 120` (40`),   AC 2,   HD 5,   #AT 1,   THAC0 15,   DG special,    SV F3,   ML 7,   THC None,   XP 500,   BOOK LL,   PAGE 93 
+Sahuagin 
+#Enc. 4d4 (3d4x10),   AL LE,   MV 120` (40`) Swim 240` (80`),   AC 5,   HD 2+2,   #AT 3 (2 claws, bite) or 1 (weapon),   THAC0 17,   DG 1d2/1d2/1d4 or As weapon,    SV F2,   ML 8,   THC V, XI, XV,   XP 47,   BOOK AEC,   PAGE 135
+Salamander, Flame 
+#Enc. 1d4+1 (2d4),   AL N,   MV 120` (40`),   AC 2,   HD 8,   #AT 3 (2 claws, bite),   THAC0 12,   DG 1d4/1d4/1d8,    SV F8,   ML 8,   THC XVII,   XP 2,060,   BOOK LL,   PAGE 94 
+Salamander, Frost 
+#Enc. 1d3 (1d3),   AL C,   MV 120` (40`),   AC 3,   HD 12,   #AT 5 (4 claws, bite),   THAC0 10,   DG 1d6 (per claw)/2d6,    SV F8,   ML 8,   THC XVIII,   XP 3,600,   BOOK LL,   PAGE 94 
+Satyr 
+#Enc. 2d4 (2d4),   AL N,   MV 180` (60`),   AC 5,   HD 5,   #AT 1 (horns),   THAC0 15,   DG 2d4,    SV F5,   ML 7,   THC IX, XVIII,   XP 350,   BOOK AEC,   PAGE 135 
+Scorpion, Giant 
+#Enc. 1d6 (1d6),   AL C,   MV 150` (50`),   AC 2,   HD 4,   #AT 3 (2 claws, sting),   THAC0 16,   DG 1d10/1d10/1d4 + poison,    SV F2,   ML 11,   THC VII,   XP 190,   BOOK LL,   PAGE 94 
+Sea Hag 
+#Enc. 1d4 (1d4),   AL CE,   MV 150` (50`),   AC 7,   HD 3,   #AT 1 (dagger),   THAC0 17,   DG 1d4 (dagger),    SV F3,   ML 7,   THC XIV,   XP 95,   BOOK AEC,   PAGE 135 
+Sea Serpent 
+#Enc. 0 (2d6),   AL N,   MV Swim 150` (50`),   AC 5,   HD 6,   #AT 1 (bite or constrict),   THAC0 14,   DG 2d6 or special,    SV F3,   ML 8,   THC None,   XP 570,   BOOK LL,   PAGE 94 
+Shadow 
+#Enc. 1d8 (1d12),   AL C,   MV 90` (30`),   AC 7,   HD 2+2,   #AT 1,   THAC0 17,   DG 1d4 + special,    SV F2,   ML 12,   THC XVII,   XP 83,   BOOK LL,   PAGE 94 
+Shambling Mound 
+#Enc. 1d3 (1d3),   AL N,   MV 60` (20`),   AC 0,   HD 8-11,   #AT 2,   THAC0 12/12/11/11,   DG 2d8/2d8,    SV F8-11,   ML 12,   THC VIII, IX, XIV,   XP 1,820,   BOOK AEC,   PAGE 136 
+Shark, Bull 
+#Enc. 0 (3d6),   AL N,   MV Swim 180` (60`),   AC 4,   HD 2,   #AT 1 (bite),   THAC0 18,   DG 2d4,    SV F1,   ML 7,   THC None,   XP 29,   BOOK LL,   PAGE 95 
+Shark, Giant
+#Enc. 1d3 (1d3),   AL N,   MV 180` (60`),   AC 5,   HD 10-15,   #AT 1 (bite),   THAC0 11/11/10/10/9/9,   DG 4d4(10-11HD), 5d4(12-13 HD), 6d4 (14-15 HD),    SV F10-15,   ML 10,   THC None,   XP 1,700,   BOOK AEC,   PAGE 136
+Shark, Great White 
+#Enc. 0 (1d4),   AL N,   MV Swim 180` (60`),   AC 4,   HD 8,   #AT 1 (bite),   THAC0 12,   DG 2d10,    SV F4,   ML 7,   THC None,   XP 1,060,   BOOK LL,   PAGE 95 
+Shark, Mako 
+#Enc. 0 (2d6),   AL N,   MV Swim 180` (60`),   AC 4,   HD 4,   #AT 1 (bite),   THAC0 16,   DG 2d6,    SV F2,   ML 7,   THC None,   XP 135,   BOOK LL,   PAGE 95 
+Shrew, Giant 
+#Enc. 1d4 (1d8),   AL N,   MV 180` (60`),   AC 4,   HD 1,   #AT 2 (bite),   THAC0 19,   DG 1d6/1d6,    SV F1,   ML 10,   THC None,   XP 19,   BOOK LL,   PAGE 95 
+Shrieker 
+#Enc. 1d8 (0),   AL N,   MV 9` (3`),   AC 7,   HD 3,   #AT special,   THAC0 17,   DG special,    SV F1,   ML 12,   THC None,   XP 65,   BOOK LL,   PAGE 95 
+Skeleton (Undead) 
+#Enc. 3d4 (3d10),   AL C,   MV 60` (20`),   AC 7,   HD 1,   #AT 1,   THAC0 19,   DG 1d6 or weapon,    SV F1,   ML 12,   THC None,   XP 13,   BOOK LL,   PAGE 95 
+Slithering Tracker 
+#Enc. 1 (1),   AL N,   MV 120` (40`),   AC 5,   HD 5,   #AT 0,   THAC0 15,   DG If victim sleeps SV paralyze,    SV F5,   ML 10,   THC XX,   XP 500,   BOOK AEC,   PAGE 136 
+Slug, Giant 
+#Enc. 1 (1),   AL N,   MV 60` (20`),   AC 8,   HD 12,   #AT 1 (bite),   THAC0 10,   DG 1d12,    SV F12,   ML 10,   THC None,   XP 2,000,   BOOK AEC,   PAGE 136 
+Snake, Giant Python 
+#Enc. 1d3 (1d3),   AL N,   MV 90` (30`),   AC 6,   HD 5,   #AT 2 (bite, constrict),   THAC0 15,   DG 1d4/2d8,    SV F3,   ML 8,   THC VI,   XP 350,   BOOK LL,   PAGE 96 
+Snake, Giant Rattler 
+#Enc. 1d4 (1d4),   AL N,   MV 120` (40`),   AC 5,   HD 4,   #AT 2 (bite),   THAC0 16,   DG 1d4 + poison,    SV F2,   ML 8,   THC VI,   XP 135,   BOOK LL,   PAGE 96 
+Snake, Pit Viper 
+#Enc. 1d8 (1d8),   AL N,   MV 90` (30`),   AC 6,   HD 2,   #AT 1 (bite),   THAC0 18,   DG 1d4 + poison,    SV F1,   ML 7,   THC None,   XP 38,   BOOK LL,   PAGE 96 
+Snake, Sea 
+#Enc. 1d8 (1d8),   AL N,   MV 90` (30`),   AC 6,   HD 3,   #AT 1 (bite),   THAC0 17,   DG 1 + poison,    SV F2,   ML 7,   THC None,   XP 65,   BOOK LL,   PAGE 96 
+Snake, Spitting Cobra  
+#Enc. 1d6 (1d6),   AL N,   MV 90` (30`),   AC 7,   HD 1,   #AT 1 (bite or spit),   THAC0 19,   DG 1d3 + poison,    SV F1,   ML 7,   THC None,   XP 13,   BOOK LL,   PAGE 96 
+Spectre (Undead) 
+#Enc. 1d4 (1d8),   AL C,   MV 150` (50`),   AC 2,   HD 6,   #AT 1 (touch),   THAC0 14,   DG 1d8 + drain level,    SV F6,   ML 11,   THC XVIII,   XP 1,070,   BOOK LL,   PAGE 96 
+Sphinx, Androsphinx 
+#Enc. 1 (1),   AL CG,   MV 180` (60`) Fly 300` (100`),   AC -2,   HD 12,   #AT 2 (claws),   THAC0 10,   DG 2d6/2d6,    SV F12,   ML 9,   THC XVI,   XP 3,600,   BOOK AEC,   PAGE 137 
+Sphinx, Criosphinx 
+#Enc. 1d4 (1d4),   AL N,   MV 120` (40`) Fly 240` (80`),   AC 0,   HD 10,   #AT 3 (2 claws, head butt),   THAC0 11,   DG 2d4/2d4/3d6,    SV F10,   ML 9,   THC XVIII,   XP 1,700,   BOOK AEC,   PAGE 137 
+Sphinx, Gynosphinx 
+#Enc. 1 (1),   AL N,   MV 150` (50`) Fly 240` (80`),   AC -1,   HD 8,   #AT 2 (claws),   THAC0 12,   DG 2d4/2d4,    SV F8,   ML 9,   THC X, XIV,   XP 1,560,   BOOK AEC,   PAGE 137 
+Sphinx, Hieracosphinx 
+#Enc. 1d6 (1d6),   AL CE,   MV 90` (30`) Fly 360` (120`),   AC 1,   HD 9,   #AT 3 (2 claws, beak),   THAC0 12,   DG 2d4/2d4/1d10,    SV F9,   ML 10,   THC XVIII,   XP 1,700,   BOOK AEC,   PAGE 137 
+Spider, Giant Black Widow 
+#Enc. 1d3 (1d3),   AL N,   MV 60` (20`) Web 120` (40`),   AC 6,   HD 3,   #AT 1 (bite),   THAC0 17,   DG 2d6 + poison,    SV F2,   ML 8,   THC VI,   XP 80,   BOOK LL,   PAGE 97 
+Spider, Giant Crab Spider 
+#Enc. 1d4 (1d4),   AL N,   MV 120` (40`),   AC 7,   HD 2,   #AT 1 (bite),   THAC0 18,   DG 1d8 + poison,    SV F1,   ML 7,   THC VI,   XP 38,   BOOK LL,   PAGE 97 
+Spider, Giant Tarantula 
+#Enc. 1d3 (1d3),   AL N,   MV 120` (40`),   AC 5,   HD 4,   #AT 1 (bite),   THAC0 16,   DG 1d8 + poison,    SV F2,   ML 8,   THC VI,   XP 135,   BOOK LL,   PAGE 97 
+Spider, Phase 
+#Enc. 1d4 (1d4),   AL N,   MV 60` (20`) On web 150` (50`),   AC 7,   HD 5+5,   #AT 1 (bite),   THAC0 14,   DG 1d6 SV poison or die,    SV F5,   ML 8,   THC XVIII,   XP 660,   BOOK AEC,   PAGE 137 
+Sprite 
+#Enc. 3d6,   AL N,   MV 60` (20`) Fly 180` (60`),   AC 5,   HD 1d4 hp,   #AT 1 (spell),   THAC0 19,   DG special,    SV E1,   ML 7,   THC IV,   XP 6,   BOOK LL,   PAGE 97 
+Squid, Giant 
+#Enc. 0 (1d4),   AL N,   MV Swim 120` (40`),   AC 7,   HD 6,   #AT 9 (8 tentacles, bite),   THAC0 14,   DG 1d4 (all tentacles)/1d10,    SV F3,   ML 7 (9),   THC VII,   XP 1,070,   BOOK LL,   PAGE 97 
+Statue, Animate Crystal
+#Enc. 1d6 (1d6),   AL L,   MV 90` (30`),   AC 4,   HD 3,   #AT 2 (fists),   THAC0 17,   DG 1d6/1d6,    SV F3,   ML 11,   THC None,   XP 65,   BOOK LL,   PAGE 98 
+Statue, Animate Iron 
+#Enc. 1d4 (1d4),   AL N,   MV 30` (10`),   AC 4,   HD 4,   #AT 2 (fists),   THAC0 16,   DG 1d8/1d8,    SV F4,   ML 11,   THC None,   XP 190,   BOOK LL,   PAGE 98 
+Statue, Animate Stone 
+#Enc. 1d3 (1d3),   AL C,   MV 60` (20`),   AC 4,   HD 5,   #AT 2 (fists),   THAC0 15,   DG 2d6/2d6,    SV F5,   ML 11,   THC None,   XP 500,   BOOK LL,   PAGE 98 
+Stirge 
+#Enc. 1d10 (3d12),   AL N,   MV 30` (10`) Fly 180` (60`),   AC 7,   HD 1,   #AT 1,   THAC0 19,   DG 1d3,    SV F2,   ML 9,   THC XI,   XP 16,   BOOK LL,   PAGE 98 
+Strangle Weed 
+#Enc. 3d4 (3d4),   AL N,   MV None,   AC 6,   HD 2-4,   #AT 1,   THAC0 18/17/16,   DG Special,    SV F2-4,   ML N/A,   THC I, II, III, IV, V, XI, XIV,   XP 29,   BOOK AEC,   PAGE 138 
+Throghrin 
+#Enc. 1d6 (1d10),   AL C,   MV 120` (40`),   AC 6,   HD 3,   #AT 2 or 1 (2 claws or weapon),   THAC0 17,   DG 1d3/1d3 or weapon,    SV F3,   ML 10,   THC XX,   XP 80,   BOOK LL,   PAGE 98 
+Tick, Giant 
+#Enc. 3d4 (3d4),   AL N,   MV 30` (10`),   AC 3,   HD 2-4,   #AT 1,   THAC0 18/17/16,   DG 1d4,    SV F2-4,   ML 8,   THC None,   XP 29,   BOOK AEC,   PAGE 138 
+Titan 
+#Enc. 1d2 (1d2),   AL CG,   MV 210` (70`) or 150` (50`),   AC 2 to -3,   HD 17-22,   #AT 1 (fist),   THAC0 8/7/7/6/6/5,   DG 7d6 or 8d6,    SV F17-22,   ML 10,   THC X, XIx8, XVIII,   XP 4,250; 7,000,   BOOK AEC,   PAGE 138 
+Toad, Giant 
+#Enc. 1d4 (1d4),   AL N,   MV 90` (30`),   AC 7,   HD 2+2,   #AT 1 (bite),   THAC0 17,   DG 1d4+1,    SV F1,   ML 6,   THC None,   XP 71,   BOOK LL,   PAGE 99 
+Toad, Giant Ice 
+#Enc. 1d4 (1d4),   AL N,   MV 90` (30`),   AC 4,   HD 5,   #AT 1 (bite),   THAC0 15,   DG 3d4,    SV F5,   ML 7,   THC XIV,   XP 500,   BOOK AEC,   PAGE 138 
+Toad, Giant Poisonous 
+#Enc. 1d4 (1d4),   AL N,   MV 90` (30`),   AC 7,   HD 2+2,   #AT 1 (bite),   THAC0 17,   DG 1d4+1 SV poison or die,    SV F1,   ML 6,   THC None,   XP 59,   BOOK AEC,   PAGE 138 
+Trapper 
+#Enc. 1 (1),   AL N,   MV 30` (10`),   AC 3,   HD 12,   #AT 1 (squeeze),   THAC0 10,   DG 1d6,    SV F12,   ML 10,   THC XVII,   XP 2,000,   BOOK AEC,   PAGE 139 
+Treant 
+#Enc. 0 (1d8),   AL L,   MV 60` (20`),   AC 2,   HD 8,   #AT 2,   THAC0 12,   DG 2d6/2d6,    SV F8,   ML 6,   THC XX,   XP 1,560,   BOOK LL,   PAGE 99 
+Triton 
+#Enc. 3d4 (2d6x10),   AL NG,   MV Swim 150` (50`),   AC 5,   HD 3,   #AT 1 (weapon),   THAC0 17,   DG As weapon,    SV F3,   ML 7,   THC VIII, IX, X, XIX,   XP 50,   BOOK AEC,   PAGE 139 
+Troglodyte 
+#Enc. 1d8 (5d8),   AL C,   MV 120` (40`),   AC 5,   HD 2,   #AT 3 (2 claws, bite),   THAC0 18,   DG 1d4/1d4/1d4,    SV F2,   ML 9,   THC XXII,   XP 38,   BOOK LL,   PAGE 100 
+Troll 
+#Enc. 1d8 (1d8),   AL C,   MV 120` (40`),   AC 4,   HD 6+3,   #AT 3 (2 claws, bite),   THAC0 13,   DG 1d6/1d6/1d10,    SV F6,   ML 10,   THC XIX,   XP 600,   BOOK LL,   PAGE 100 
+Turtle, Giant Sea 
+#Enc. 1d3 (1d3),   AL N,   MV 10` (3`) Swim 150` (50`),   AC 2 (head, flippers 5),   HD 15,   #AT 1 (bite),   THAC0 9,   DG 4d4,    SV F15,   ML 6,   THC None,   XP 1,500,   BOOK AEC,   PAGE 139 
+Turtle, Giant Snapping 
+#Enc. 1d4 (1d4),   AL N,   MV 30` (10`) Swim 120` (40`),   AC 0 (head, flippers 5),   HD 10,   #AT 1 (bite),   THAC0 11,   DG 6d4,    SV F10,   ML 9,   THC None,   XP 1,700,   BOOK AEC,   PAGE 139 
+Unicorn 
+#Enc. 1d6 (1d8),   AL L,   MV 240` (80`),   AC 2,   HD 4,   #AT 3 (2 hooves, horn),   THAC0 16,   DG 1d8/1d8/1d8,    SV F8,   ML 7,   THC None,   XP 135,   BOOK LL,   PAGE 100 
+Vampire (Undead) 
+#Enc. 1d4 (1d6),   AL C,   MV 120` (40`) Fly 180` (60`),   AC 2,   HD 7-9,   #AT 1 (touch or special),   THAC0 13/12/12,   DG 1d10 or drain life energy,    SV F7 to F9,   ML 11,   THC XVII,   XP 3,150; 5,060; 7,300,   BOOK LL,   PAGE 101
+Wasp, Giant 
+#Enc. 1d20 (1d20+20),   AL N,   MV 60` (20`) Fly 210` (70`),   AC 4,   HD 4,   #AT 2 (bite, sting),   THAC0 16,   DG 2d4/1d4 sting SV poison or paralyze,    SV F4,   ML 10,   THC XIx15,   XP 135,   BOOK AEC,   PAGE 140 
+Weasel, Giant 
+#Enc. 1d4 (1d6),   AL N,   MV 150` (50`),   AC 7,   HD 4+4,   #AT 1 (bite),   THAC0 15,   DG 2d4,    SV F3,   ML 8,   THC VII,   XP 290,   BOOK LL,   PAGE 101 
+Whale, Killer 
+#Enc. 0 (1d6),   AL N,   MV 240` (80`),   AC 6,   HD 6,   #AT 1 (bite),   THAC0 14,   DG 1d20,    SV F3,   ML 10,   THC VII,   XP 570,   BOOK LL,   PAGE 102 
+Whale, Narwhal  
+#Enc. 0 (1d4),   AL L,   MV 180` (60`),   AC 7,   HD 12,   #AT 2 (bite, horn),   THAC0 10,   DG 2d6/1d8,    SV F12,   ML 8,   THC None,   XP 1,200,   BOOK LL,   PAGE 102 
+Whale, Sperm
+#Enc. 0 (1d3),   AL N,   MV 180` (60`),   AC 6,   HD 36,   #AT 1 (bite),   THAC0 5,   DG 3d20,    SV F15,   ML 7,   THC VII,   XP 12,500,   BOOK LL,   PAGE 102 
+Wight (Undead) 
+#Enc. 1d6 (1d8),   AL C,   MV 90` (30`),   AC 5,   HD 3,   #AT 1,   THAC0 17,   DG drain life energy,    SV F3,   ML 12,   THC XXI,   XP 110,   BOOK LL,   PAGE 102 
+Will-O-Wisp 
+#Enc. 1 (1d3),   AL CE,   MV 180` (60`),   AC -8,   HD 9,   #AT 1,   THAC0 12,   DG 2d8,    SV F9,   ML 7,   THC XVIII,   XP 3,100,   BOOK AEC,   PAGE 140 
+Wind Walker 
+#Enc. 1d3 (1d3),   AL N,   MV 150` (50`) Fly 300` (100`),   AC 7,   HD 6+3,   #AT 1,   THAC0 13,   DG 3d6,    SV F6,   ML 9,   THC XXII,   XP 680,   BOOK AEC,   PAGE 140 
+Wolf 
+#Enc. 2d6 (3d6),   AL N,   MV 180` (60`),   AC 7,   HD 2+2,   #AT 1 (bite),   THAC0 17,   DG 1d6,    SV F1,   ML 8,   THC None,   XP 35,   BOOK LL,   PAGE 102 
+Wolf, Dire 
+#Enc. 1d4 (2d4),   AL N,   MV 150` (50`),   AC 6,   HD 4+1,   #AT 1 (bite),   THAC0 15,   DG 2d4,    SV F2,   ML 8,   THC None,   XP 140,   BOOK LL,   PAGE 102 
+Wolf, Winter 
+#Enc. 2d4 (2d4),   AL NE,   MV 180` (60`),   AC 5,   HD 6,   #AT 1 (bite) or 1 (breathe),   THAC0 14,   DG 2d4 or 6d4 breathe (SV breath attacks for half damage),    SV F6,   ML 10,   THC XIV,   XP 820,   BOOK AEC,   PAGE 140 
+Wolverine 
+#Enc. 1 (1d3),   AL N,   MV 120` (40`),   AC 5,   HD 3,   #AT 3 (2 claws, bite),   THAC0 17,   DG 1d4/1d4/1d4+1,    SV F3,   ML 10,   THC None,   XP 80,   BOOK AEC,   PAGE 141 
+Wolverine, Giant 
+#Enc. 1 (1d3),   AL N,   MV 150` (50`),   AC 4,   HD 4+4,   #AT 3 (2 claws, bite),   THAC0 15,   DG 1d4+1/1d4+1/2d4,    SV F4,   ML 11,   THC None,   XP 290,   BOOK AEC,   PAGE 141 
+Wraith (Undead) 
+#Enc. 1d4 (1d6),   AL C,   MV 120` (40`) Fly 240` (80`),   AC 3,   HD 4,   #AT 1 (touch),   THAC0 16,   DG 1d6 + drain life energy,    SV F4,   ML 12,   THC XVIII,   XP 300,   BOOK LL,   PAGE 102 
+Wyvern 
+#Enc. 1d2 (1d6),   AL C,   MV 90` (30`) Fly 240` (80`),   AC 3,   HD 7,   #AT 2 (bite, sting),   THAC0 13,   DG 2d8/2d8 + poison,    SV F4,   ML 9,   THC XVIII,   XP 1,140,   BOOK LL,   PAGE 103 
+Xorn 
+#Enc. 1d4 (1d4),   AL N,   MV 90` (30`),   AC -2,   HD 7+7,   #AT 4 (3 claws, bite),   THAC0 12,   DG 1d3/1d3/1d3/6d4,    SV F7,   ML 10,   THC XIx3, XII, XIII, XXI,   XP 1,700,   BOOK AEC,   PAGE 141 
+Yellow Mold 
+#Enc. 1d8 (1d4),   AL N,   MV 0,   AC NA,   HD 2,   #AT Spores,   THAC0 18,   DG 1d6 + special,    SV F2,   ML NA,   THC None,   XP 38,   BOOK LL,   PAGE 103 
+Yeti 
+#Enc. 1d6 (2d4),   AL N,   MV 150` (50`),   AC 6,   HD 4+4,   #AT 2 (claws),   THAC0 15,   DG 1d6/1d6,    SV F4,   ML 8,   THC XX,   XP 38,   BOOK AEC,   PAGE 141 
+Zombie (Undead)  
+#Enc. 2d4 (4d6),   AL C,   MV 120` (40`),   AC 8,   HD 2,   #AT 1,   THAC0 18,   DG 1d8 or weapon,    SV F1,   ML 12,   THC None,   XP 29,   BOOK LL,   PAGE 103 
